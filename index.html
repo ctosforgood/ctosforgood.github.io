@@ -183,24 +183,23 @@ function toggleAlumni() {
 </div>    
 
 
-<!-- WEBINARS -->
-<a name="webinars"></a>
+<!-- Hangouts -->
+<a name="hangouts"></a>
 <div class="container-fluid col_grayLighter">
    <div class="container m-b-4">
       <div class="row">
          <div class="col-xs-12 col-sm-10 offset-sm-1 m-t-4 m-b-2">
-            <h2 class="col_brand1Text">Webinars</h2>
+            <h2 class="col_brand1Text">Hangouts</h2>
             <p>
-             We host several webinars each year with guest speakers who are technical experts on topics of shared interest. Past webinars include:
+             We host several video hangouts each year with guest speakers who are technical experts on topics of shared interest. Past hangouts include:
             </p>
          </div>    
       </div>    
       <div class="row">
-         {% for webinar in site.data.webinars %}
+         {% for hangout in site.data.hangouts %}
          <div class="col-sm-8 offset-sm-2 m-b-1">
-            <h4 class="text_normalCase">{{ webinar.title }}</h4>
-            <p><a href="{{ webinar.linkedin }}" class="col_brand2Text text_500 text_allCaps">{{ webinar.name }}</a><span class="col_brand1Text p-l-1"><em>{{ webinar.company }}</em></span>
-            <a href="{{ alum.url }}" class="col_brand2Text">{{ alumn.organization }}</a></p>
+            <h4 class="text_normalCase">{{ hangout.title }}</h4>
+            <p><a href="{{ hangout.linkedin }}" class="col_brand2Text text_500 text_allCaps">{{ hangout.name }}</a><span class="col_brand1Text p-l-1"><em>{{ hangout.company }}</em></span>
          </div>
          {% endfor %}
        </div>
