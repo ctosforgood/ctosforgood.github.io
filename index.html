@@ -60,7 +60,7 @@ layout: default
          {% assign alumni = (site.data.alumni | sort: 'organization') %}
          {% for alumn in alumni %}
          <div class="col-md-3 m-t-1 m-b-1">
-            <p>{% if alumn.linkedin == null %}<span class="member-name">{% else %}<a href="{{ alumn.linkedin }}" class="member-name">{% endif %}{{ alumn.name }}{% if alumn.linkedin == %}</span>{% else %}</a>{% endif %}<br/>
+            <p>{% if alumn.linkedin == null %}<span class="member-name">{% else %}<a href="{{ alumn.linkedin }}" class="member-name">{% endif %}{{ alumn.name }}{% if alumn.linkedin == null %}</span>{% else %}</a>{% endif %}<br/>
             <a href="{{ alum.url }}" class="col_brand2Text">{{ alumn.organization }}</a></p>
          </div>
          {% endfor %}
@@ -188,7 +188,7 @@ function toggleAlumni() {
 <div class="container-fluid col_grayLighter">
    <div class="container m-b-4">
       <div class="row">
-         <div class="col-sm-10 offset-sm-1 m-t-4 m-b-2">
+         <div class="col-xs-12 col-sm-10 offset-sm-1 m-t-4 m-b-2">
             <h2 class="col_brand1Text">Webinars</h2>
             <p>
              We host several webinars each year with guest speakers who are technical experts on topics of shared interest. Past webinars include:
@@ -213,7 +213,7 @@ function toggleAlumni() {
 <div class="container-fluid col_brand1Darkest">
    <div class="container">
       <div class="row">
-         <div class="col-sm-10 offset-sm-1 m-t-5 m-b-5">
+         <div class="col-xs-12 col-sm-10 offset-sm-1 m-t-5 m-b-5">
             <h2 class="col_brand3Text">Email List</h2>
             <p class="col_whiteText">
             Our very active group email list enables our members to quickly and easily access the collective wisdom of the group. When members hit a particularly troublesome technical issue or are grappling with a tricky management decision, they can reach out to the group for advice and help. Often times another member has solved a similar problem and can offer insight or can connect them to someone in their network who can help. This reduces the number of times we "reinvent the wheel" and helps us all scale our organizations more quickly.
