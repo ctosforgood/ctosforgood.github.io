@@ -1,0 +1,81 @@
+// Bootstrap overrides
+//
+// Copy variables from `_variables.scss` to this file to override default values
+// without modifying source files.
+
+$body-color: #666666;
+
+$brand-primary:             #006f95;
+$brand-primary-darker:      #044961;
+$brand-primary-darkest:     #0b4255;
+$brand-secondary:           #d2970e;
+$brand-tertiary:            #eabc69;
+
+$brand-success:             $brand-primary;
+$brand-info:                $brand-secondary;
+$brand-warning:             #f0ad4e;
+$brand-danger:              #d9534f;
+
+
+$font-size-base: 1.25rem;
+$font-size-lg:   1.5rem;
+$font-size-sm:   1rem;
+$font-size-xs:   .875rem;
+
+$line-height-base: 1.5;
+
+$font-size-h1: 3.25rem;
+$font-size-h2: 3rem;
+$font-size-h3: 2.75rem;
+$font-size-h4: 2.0rem;
+$font-size-h5: 1.75rem;
+$font-size-h6: 1.25rem;
+
+$font-family-sans-serif: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$font-family-khand: 'Khand', 'Gill Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$font-family-base: $font-family-sans-serif;
+
+$headings-font-family: $font-family-khand;
+
+
+$border-radius:          0;
+$border-radius-lg:       0;
+$border-radius-sm:       0;
+
+$btn-secondary-color:  white;
+$btn-secondary-bg:     $brand-tertiary;
+$btn-secondary-border: $brand-tertiary;
+
+$spacer:   1rem;
+$spacer-x: $spacer;
+$spacer-y: $spacer;
+$spacers: (
+  0: (
+    x: 0,
+    y: 0
+  ),
+  1: (
+    x: $spacer-x,
+    y: $spacer-y
+  ),
+  2: (
+    x: ($spacer-x * 1.5),
+    y: ($spacer-y * 1.5)
+  ),
+  3: (
+    x: ($spacer-x * 3),
+    y: ($spacer-y * 3)
+  ),
+  4: (
+    x: ($spacer-x * 6),
+    y: ($spacer-y * 6)
+  ),
+  5: (
+    x: ($spacer-x * 9),
+    y: ($spacer-y * 9)
+  ),
+  6: (
+    x: ($spacer-x * 12),
+    y: ($spacer-y * 12)
+  )
+);

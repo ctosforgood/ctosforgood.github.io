@@ -1,0 +1,65 @@
+ .col_white {
+    background-color: white;
+ }
+ .col_whiteText {
+    color: white;
+ }
+
+ .col_bodyText {
+    color: $body-color;
+ }
+ 
+ .col_brand1Text {
+   color: $brand-primary;
+ }
+ .col_brand2Text {
+   color: $brand-secondary;
+ }
+ .col_brand3Text {
+   color: $brand-tertiary;
+ }
+ 
+ .col_brand1DarkerText {
+   color: $brand-primary-darker;
+ }
+ 
+ .col_brand1Darker {
+   background-color: $brand-primary-darker;
+ }
+ 
+ .col_brand1Darkest {
+   background-color: $brand-primary-darkest;
+ }
+ 
+ .col_grayLighter {
+   background-color: $gray-lighter;
+ }
+ 
+ h1, h2, h3, h4 {
+   text-transform: uppercase;
+ }
+ 
+ h5 {
+   color: $brand-primary-darker;
+ }
+ 
+ h6 {
+   font-family: $font-family-sans-serif;
+   font-weight: 400;
+   font-style: italic;
+   font-size: 0.8em;
+   margin: 1em 0 0 0;
+   color: $body-color;
+ }
+ 
+ .text_normalCase {
+   text-transform: none;
+ }
+
+ .text_allCaps {
+   text-transform: uppercase;
+ }
+ 
+ .text_500 {
+   font-weight: 500;
+ }
