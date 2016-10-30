@@ -1,6 +1,13 @@
 #
 # See ./README.md for instructions.
 #
+- name: Jason Bennett
+  photo: /images/members/jason-bennett.jpg 
+  organization: Crisis Text Line
+  logo: /images/logos/crisistextline.png  
+  url: http://www.crisistextline.org/
+  linkedin: https://www.linkedin.com/in/jaymbennett
+  
 - name: Tim Gamory
   photo: /images/members/tim-gamory.jpg 
   organization: Charity Navigator
