@@ -65,11 +65,6 @@
   url: https://www.benetech.org/
   linkedin: https://www.linkedin.com/in/gerardo
   
-- name: Brian Honohan 
-  organization: charity:water
-  url: https://www.charitywater.org
-  linkedin: https://www.linkedin.com/in/brianhonohan
-  
 - name: George Weiner
   organization: DoSomething.org
   url: https://www.dosomething.org
@@ -109,3 +104,10 @@
   organization: Jumo
   url: https://www.globalgiving.org/jumo/
   linkedin: https://www.linkedin.com/in/joshhendler
+  
+- name: Matt Eckstein
+  photo: /images/members/matt-eckstein.jpg
+  organization: Charity:Water
+  logo: /images/logos/charitywater.png
+  url: https://www.charitywater.org/
+  linkedin: https://www.linkedin.com/in/mattheweckstein  
