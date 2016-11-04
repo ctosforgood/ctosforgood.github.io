@@ -1,0 +1,79 @@
+---
+layout: default
+---
+
+<a name="about"></a>
+<div class="container">
+  <div class="row m-t-2 m-b-2">
+     <div class="col-sm-8 offset-sm-2">
+        <h2 class="col_brand2Text">Welcome</h2>
+        <p>Founded in 2011, CTOs for Good is an invitation-only group of technical leaders at nonprofits that deliver social impact primarily through technology and digital strategy. We support each other in doing big things on lean budgets. We share best practices and lessons learned around technology choices, managing technical teams, scaling social impact, and much more.
+        </p>
+        <p>
+        CTOs for Good is a participation-based peer group for cause-focused technology execs to openly share best practices and reach out for referrals, thoughts, or help. We have an active email list and meet in person once each year. We also do topic-focused conference calls a few times each year.
+        </p>
+     </div>    
+  </div>    
+</div>    
+
+
+
+<!-- RULES -->
+<a name="email"></a>
+<div class="container-fluid col_brand1Darkest">
+   <div class="container">
+      <div class="row">
+         <div class="col-xs-12 col-sm-8 offset-sm-2 m-t-4 m-b-4">
+            <h2 class="col_brand3Text">Membership Rules</h2>
+<ol class="col_whiteText">
+<li><strong>Be open and helpful.</strong></li>
+<li><strong>Be respectful</strong> when asking and answering questions.</li>
+<li><strong>Be Candid</strong>. Don't be afraid to be candid and offer frank advice. The utility of the group comes from helping each other solve problems more effectively.</li>
+<li><strong>Chatham House Rule.</strong> All conversations are subject to <a href="https://en.wikipedia.org/wiki/Chatham_House_Rule" class="col_brand3Text">Chatham House Rules</a>. This means anything asked/answered in this forum shouldn't be tweeted, blogged, quoted back to a vendor or mutual board member, or attributed in any other way without the explicit permission of the source. This is critical to creating the right environment of openness and candor. It's totally fine to paraphrase our discussions and recommendations for our colleagues at our respective organizations.</li>
+<li><strong>No Sales.</strong> Members may not be in the business of selling products, services, or consulting to nonprofits as this presents a conflict of interest.</li>
+<li><strong>Grow the Tribe.</strong> Suggest people from your network who might be a good fit and expand the diversity of thought and experience of the group.</li>
+<li><strong>Participate.</strong> Make time for annual meeting and periodic Hangouts. Answer others' questions on our email list. If you can't make it to the annual meeting, or a majority of the Hangouts, we might ask you to leave. The value of the community comes from participation.</li>
+</ol>
+         </div>    
+      </div>    
+    </div>    
+</div>    
+
+
+<!-- CHATHAM -->
+<div class="container-fluid">
+   <div class="container">
+      <div class="row">
+         <div class="col-sm-8 offset-sm-2 m-t-4 m-b-4">
+            <h2 class="col_brand1Text">Chatham House Rule</h2>
+            <p>
+<em>“When a meeting, or part thereof, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.”</em>
+            </p>
+         </div>    
+      </div>    
+    </div>    
+</div>    
+
+
+
+<a name="members"></a>
+<div class="container-fluid col_grayLighter">
+   <div class="container m-b-4">
+      <div class="row">
+         <div class="col-xs-12 text-xs-center m-t-4 m-b-3">
+            <h2 class="col_brand1Text">Who We Are</h2>
+         </div>
+      </div>
+      
+      <div class="row">
+         {% assign members = (site.data.members | sort: 'organization') %}
+         {% for member in members %}
+         <div class="col-md-3 m-t-1 m-b-1">
+            <p>{% if member.linkedin == null %}<span class="member-name">{% else %}<a href="{{ member.linkedin }}" class="member-name">{% endif %}{{ member.name }}{% if member.linkedin == null %}</span>{% else %}</a>{% endif %}<br/>
+            <a href="{{ alum.url }}" class="col_brand2Text">{{ member.organization }}</a></p>
+         </div>
+         {% endfor %}
+      </div>
+      
+   </div>
+</div>  
