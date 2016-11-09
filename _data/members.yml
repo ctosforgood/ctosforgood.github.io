@@ -118,5 +118,11 @@
   logo: /images/logos/code.png
   url: https://code.org/
   linkedin: https://www.linkedin.com/in/jeremydstone
-  
+
+- name: Lou Moore
+  photo: /images/members/lou-moore.jpg 
+  organization: Code for America
+  logo: /images/logos/cfa.png
+  url: https://www.codeforamerica.org/
+  linkedin: https://www.linkedin.com/in/louisrmoore
   
