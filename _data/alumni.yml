@@ -4,117 +4,131 @@
   organization: Idealist.org
   url: https://www.idealist.org/
   linkedin: https://www.linkedin.com/in/jasonkirtland
-  
+
 - name: Chris Johnson
   organization: Crisis Text Line
   url: http://www.crisistextline.org/
   linkedin: https://www.linkedin.com/in/chris-johnson-20b9b787
-  
+
 - name: Ben Kamens
   organization: Khan Academy
   url: https://www.khanacademy.org/
   linkedin: https://www.linkedin.com/in/ben-kamens-02a4a2117
-  
+
 - name: Tomasz Finc
   organization: Wikimedia
   url: https://www.wikimedia.org/
   linkedin: https://www.linkedin.com/in/tomaszfinc
-  
+
 - name: Hannah Lewbel
   organization: Worldreader
   url: http://www.worldreader.org/
   linkedin: https://www.linkedin.com/in/hannah-lewbel-030932
-  
+
 - name: Michal Migurski
   organization: Code for America
   url: https://www.codeforamerica.org/
   linkedin: https://www.linkedin.com/in/michalmigurski
-  
+
 - name: Sam Mankiewicz
   organization: Kiva.org
   url: https://www.kiva.org
   linkedin: https://www.linkedin.com/in/sammankiewicz
-  
+
 - name: Brian Herbert
   organization: Ushahidi
   url: https://www.ushahidi.org
   linkedin: https://www.linkedin.com/in/brianherbert
-  
+
 - name: Zeph Harben
   organization: VolunteerMatch
   url: https://www.volunteermatch.org
   linkedin: https://www.linkedin.com/in/zephh
-  
+
 - name: Andreas Gal
   organization: Mozilla
   url: https://www.mozilla.org/
   linkedin: https://www.linkedin.com/in/andreasgal
-  
+
 - name: David Kobia
   organization: Ushahidi
   url: https://www.ushahidi.org
   linkedin: https://www.linkedin.com/in/kobia
-  
+
 - name: Erik Möller
   organization: Wikimedia
   url: https://www.wikimedia.org/
   linkedin: https://www.linkedin.com/in/eloquence
-  
+
 - name: Gerardo Capiel
   organization: Benetech
   url: https://www.benetech.org/
   linkedin: https://www.linkedin.com/in/gerardo
-  
+
 - name: George Weiner
   organization: DoSomething.org
   url: https://www.dosomething.org
   linkedin: https://www.linkedin.com/in/georgeweiner
-  
+
 - name: Eric Ng
   organization: iMentor
   url: https://imentor.org/
   linkedin: https://www.linkedin.com/in/ercplus
-  
+
 - name: Steve Turner
   organization: Network For Good
   url: http://www.networkforgood.com/
   linkedin: https://www.linkedin.com/in/steveturner123
-  
+
 - name: Scott Geller
   organization: Points of Light
   url: http://www.pointsoflight.org/
   linkedin: https://www.linkedin.com/in/scottgeller
-  
+
 - name: Nathan Yergler
   organization: Creative Commons
   url: https://creativecommons.org/
   linkedin: https://www.linkedin.com/in/nathanyergler
-  
+
 - name: Todd Huss
   organization: VolunteerMatch
   url: https://www.volunteermatch.org/
   linkedin: https://www.linkedin.com/in/thuss
-  
+
 - name: Greg Phelan
   organization: charity:water
   url: https://www.charitywater.org
   linkedin: https://www.linkedin.com/in/jgregphelan
-  
+
 - name: Josh Hendler
   organization: Jumo
   url: https://www.globalgiving.org/jumo/
   linkedin: https://www.linkedin.com/in/joshhendler
-  
+
 - name: Matt Eckstein
   photo: /images/members/matt-eckstein.jpg
   organization: Charity:Water
   logo: /images/logos/charitywater.png
   url: https://www.charitywater.org/
-  linkedin: https://www.linkedin.com/in/mattheweckstein  
-  
+  linkedin: https://www.linkedin.com/in/mattheweckstein
+
 - name: Steve Rogers
-  photo: /images/members/steve-rogers.jpg 
+  photo: /images/members/steve-rogers.jpg
   organization: GlobalGiving
   logo: /images/logos/globalgiving.png
   url: https://www.globalgiving.org
   linkedin: https://www.linkedin.com/in/stevencrogers
+
+- name: Kelsey Gilmore-Innis
+  photo: /images/members/kelsey-gilmore-innis.jpg
+  organization: Callisto
+  logo: /images/logos/callisto.png
+  url: https://www.projectcallisto.org/
+  linkedin: https://www.linkedin.com/in/kelseygilmoreinnis
+
+- name: Matt Webster
+  photo: /images/members/matt-webster.jpg
+  organization: Global Citizen
+  logo: /images/logos/globalcitizen.png
+  url: https://www.globalcitizen.org/
+  linkedin: https://www.linkedin.com/in/mattwebsternyc

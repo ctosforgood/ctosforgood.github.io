@@ -57,13 +57,6 @@
   url: https://www.globalgiving.org
   linkedin: https://www.linkedin.com/in/kevinmconroy
 
-- name: Matt Webster
-  photo: /images/members/matt-webster.jpg
-  organization: Global Citizen
-  logo: /images/logos/globalcitizen.png
-  url: https://www.globalcitizen.org/
-  linkedin: https://www.linkedin.com/in/mattwebsternyc
-
 - name: Kevin O'Brien
   photo: /images/members/kevin-obrien.jpg
   organization: Kiva.org
@@ -118,13 +111,6 @@
   logo: /images/logos/cfa.png
   url: https://www.codeforamerica.org/
   linkedin: https://www.linkedin.com/in/louisrmoore
-
-- name: Kelsey Gilmore-Innis
-  photo: /images/members/kelsey-gilmore-innis.jpg
-  organization: Callisto
-  logo: /images/logos/callisto.png
-  url: https://www.projectcallisto.org/
-  linkedin: https://www.linkedin.com/in/kelseygilmoreinnis
 
 - name: Victoria Coleman
   photo: /images/members/victoria-coleman.jpg
