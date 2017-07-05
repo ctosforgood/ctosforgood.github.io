@@ -125,3 +125,24 @@
   logo: /images/logos/plannedparenthood.png
   url: https://www.plannedparenthood.org/
   linkedin: https://www.linkedin.com/in/franklin-rosado-87721/
+
+- name: Franklin Rosado
+  photo: /images/members/no-photo.jpg
+  organization: Planned Parenthood
+  logo: /images/logos/plannedparenthood.png
+  url: https://www.plannedparenthood.org/
+  linkedin: https://www.linkedin.com/in/franklin-rosado-87721/
+
+- name: Mark Lehmann
+  photo: /images/members/mark-lehmann.jpg
+  organization: Global Citizen
+  logo: /images/logos/globalcitizen.png
+  url: https://www.globalcitizen.org/
+  linkedin: https://www.linkedin.com/in/mark-w-lehmann-090411b3/
+
+- name: Matt Dragon
+  photo: /images/members/matt-dragon.jpg
+  organization: Charity Navigator
+  logo: /images/logos/charitynavigator.png
+  url: http://www.charitynavigator.org/
+  linkedin: https://www.linkedin.com/in/mattdragon/
