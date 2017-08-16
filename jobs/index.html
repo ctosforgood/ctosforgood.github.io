@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<div class="container-fluid col_brand1Darkest">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-10 offset-sm-1 m-t-4 m-b-4">
+          <h2 class="col_brand3Text">Jobs for Good</h2>
+          <p class="col_whiteText">
+          Tired of making apps that just try to increase pageviews and ad revenue? Are you hoping to use your skills for good? CTOs for Good represents a <a href="/#members">group of nonprofits</a> focused on using technology to make the world a better place. Browse the latest job opportunities below.
+          </p>
+      </div>
+     </div>
+  </div>
+</div>
+
+
+{% assign index = 0 %}
+{% assign jobs = (site.data.jobs) %}
+{% assign members = (site.data.members) %}
+{% for job in jobs %}
+  <!-- JOB LISTING -->
+  {% assign index = forloop.index0 | modulo:2 %}
+
+  {% assign logo = "" %}
+  {% for member in members %}
+    {% if member.organization == job.organization %}
+        {% assign logo = member.logo %}
+    {% endif %}
+  {% endfor %}
+
+  {% if index == 0 %}
+  <div class="container-fluid">
+     <div class="container">
+        <div class="row">
+   {% endif %}
+
+           <div class="col-sm-6 m-t-2 m-b-2 text-xs-center">
+              <h4 class="col_brand1Text"><a href="{{ job.url }}">{{ job.title }}</a></h4>
+
+              {% if logo !=  "" %}
+                <p><a href="{{ job.url }}"><img src="{{ logo }}" width="250"/></a></p>
+              {% else %}
+                <h3><a href="{{ job.url }}" class="col_brand3Text">{{ job.organization }}</a></h3>
+              {% endif %}
+
+              <p><a href="{{ job.url }}" class="btn btn-secondary active" role="button">Learn More</a></p>
+           </div>
+
+  {% if index == 1 %}
+        </div>
+     </div>
+  </div>
+  {% endif %}
+{% endfor %}
+
+{% if index == 0 %}
+      </div>
+   </div>
+</div>
+{% endif %}

@@ -1,0 +1,71 @@
+## Data will appear in the order listed below. As such, we generally recommend doing append-to-top so that most recent listings appear first.
+## Pro-Tip to Remove Line Breaks:
+##  * If using Atom, copy and paste HTML from member site. Selcet job description. Go to Packages -> Text Manipulation -> Whitespace Processing -> Collapse Whitespace
+
+- title: Full Stack Developer
+  organization: Charity Navigator
+  url: https://charitynavigator.recruiterbox.com/jobs/fk0m9b2
+
+- title: Software Engineering Lead, Medicaid & SNAP
+  organization: Code for America
+  url: https://www.codeforamerica.org/jobs?gh_jid=794135
+
+- title: UX Developer Lead
+  organization: Code for America
+  url:  https://www.codeforamerica.org/jobs?gh_jid=790126
+
+- title: Data Engineer
+  organization: Code.org
+  url: https://code.org/about/jobs#data
+
+- title: Front-End Engineer
+  organization: Common Sense
+  url: https://www.commonsensemedia.org/about-us/front-end-engineer-3
+
+- title: Senior Software Engineer
+  organization: Crisis Text Line
+  url: https://www.workable.com/j/55CDAE57EB
+
+- title: Software Engineer
+  organization: DoSomething.org
+  url: http://dosomething.applytojob.com/apply/cNwwGRzSrX/Software-Engineer
+
+- title: Lead Developer
+  organization: Global Citizen
+  url: https://www.globalcitizen.org/en/about/jobs/#op-193338-lead-developer
+
+- title: Software Engineering (Multiple)
+  organization: Khan Academy
+  url: https://www.khanacademy.org/careers
+
+- title: Security Engineer, Technical Operations
+  organization: Kiva
+  url: https://boards.greenhouse.io/kivaorg/jobs/553972?gh_jid=553972#.WZOOEXeGPyg
+
+- title: Software Engineer - Full Stack
+  organization: Kiva
+  url: https://boards.greenhouse.io/kivaorg/jobs/779945?gh_jid=779945#.WZOOEneGPyg
+
+- title: Web Developer
+  organization: Planned Parenthood
+  url: https://plannedparenthoodrcext.peoplefluent.com/viewjob.html?optlink-view=view-161566&ERFormID=newjoblist&ERFormCode=any
+
+- title: Director, Product Management
+  organization: PLOS
+  url: https://recruiting.ultipro.com/PUB1003/JobBoard/f3fb362c-761f-0eab-0b95-2fb7b2ba04e5/OpportunityDetail?opportunityId=28e8f84e-5268-446d-a988-0f6e6ccee1a1
+
+- title: Software Engineering Manager
+  organization: PLOS
+  url: https://recruiting.ultipro.com/PUB1003/JobBoard/f3fb362c-761f-0eab-0b95-2fb7b2ba04e5/OpportunityDetail?opportunityId=614b7d59-e5de-41e3-9eb6-d7c2c3363c84
+
+- title: Director of Security
+  organization: Wikimedia Foundation
+  url: https://boards.greenhouse.io/wikimedia/jobs/230631?gh_src=txi3af1#.WZOPrneGPyg
+
+- title: Operations Engineer
+  organization: Wikimedia Foundation
+  url: https://boards.greenhouse.io/wikimedia/jobs/615116?gh_src=1xb8om1#.WZOPrneGPyg
+
+- title: Engineering Manager
+  organization: Wikimedia Foundation
+  url: https://boards.greenhouse.io/wikimedia/jobs/681904?gh_src=uq6far1#.WZOPrneGPyg
