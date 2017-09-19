@@ -2,10 +2,6 @@
 ## Pro-Tip to Remove Line Breaks:
 ##  * If using Atom, copy and paste HTML from member site. Selcet job description. Go to Packages -> Text Manipulation -> Whitespace Processing -> Collapse Whitespace
 
-- title: Full Stack Developer
-  organization: Charity Navigator
-  url: https://charitynavigator.recruiterbox.com/jobs/fk0m9b2
-
 - title: Software Engineering Lead, Medicaid & SNAP
   organization: Code for America
   url: https://www.codeforamerica.org/jobs?gh_jid=794135
