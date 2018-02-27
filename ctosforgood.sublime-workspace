@@ -1,0 +1,264 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"_source"
+			],
+			[
+				"reg",
+				"registration_country"
+			],
+			[
+				"regi",
+				"registration_country"
+			],
+			[
+				"excep",
+				"except"
+			],
+			[
+				"VET",
+				"vetting-organization"
+			],
+			[
+				"registra",
+				"registration_country"
+			],
+			[
+				"regis",
+				"registration_id"
+			],
+			[
+				"address",
+				"address_1"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"addre",
+				"address_1"
+			],
+			[
+				"count",
+				"country_id"
+			],
+			[
+				"times",
+				"timestamps"
+			],
+			[
+				"ad",
+				"additional_data"
+			],
+			[
+				"api",
+				"apikey"
+			],
+			[
+				"com",
+				"compressedContnet"
+			],
+			[
+				"log",
+				"logEmail"
+			],
+			[
+				"bucket",
+				"bucket-name"
+			],
+			[
+				"emaillog",
+				"emaillog-emails"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kconroy/Sites/ctosforgood"
+	],
+	"file_history":
+	[
+		"/Users/kconroy/workspace/moonshot-importers/southafrica/south-africa.csv",
+		"/Users/kconroy/workspace/moonshot-importers/hackathon-v1/import-globalgiving.py",
+		"/Users/kconroy/workspace/moonshot-importers/hackathon/vetting-organization.txt",
+		"/Users/kconroy/Sites/emaillog.io/serverless/# serverless.yml",
+		"/Users/kconroy/Sites/emaillog.io/src/api-emaillog-io/unitTest.py",
+		"/Users/kconroy/Sites/emaillog.io/src/api-emaillog-io/main.py",
+		"/Users/kconroy/Sites/emaillog.io/src/api-emaillog-io/test.py",
+		"/Users/kconroy/Sites/emaillog.io/serverless/README",
+		"/Users/kconroy/Sites/emaillog.io/src/api-emaillog-io/serverless.yml",
+		"/Users/kconroy/Desktop/will.html",
+		"/Users/kconroy/Desktop/leaders.csv",
+		"/Users/kconroy/Desktop/scwab",
+		"/Users/kconroy/Downloads/email_project_report_nps_for_pls.html",
+		"/Users/kconroy/Sites/emaillog.io/src/log-sendgrid/handler.py",
+		"/Users/kconroy/Sites/emaillog.io/docs/amazon.md",
+		"/Users/kconroy/Downloads/nps.sql",
+		"/Users/kconroy/Sites/emaillog.io/test-log/serverless.yml",
+		"/Users/kconroy/Sites/emaillog.io/docs/SETUP.md",
+		"/Users/kconroy/Sites/emaillog.io/sample/lambda-refarch-webapp-master/cloudformation/serverless-web-master.template",
+		"/Users/kconroy/Sites/emaillog.io/src/log-sendgrid/serverless.yml",
+		"/Users/kconroy/Sites/emaillog.io/emaillog.sublime-project",
+		"/Users/kconroy/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/kconroy/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/kconroy/workspace/web/.travis.yml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ctosforgood.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 412.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
