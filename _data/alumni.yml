@@ -139,3 +139,24 @@
   logo: /images/logos/charitynavigator.png
   url: http://www.charitynavigator.org/
   linkedin: https://www.linkedin.com/in/timgamory
+
+- name: CJ Rayhill
+  photo: /images/members/cj-rayhill.jpg
+  organization: PLOS
+  logo: /images/logos/plos.png
+  url: https://www.plos.org/
+  linkedin: https://www.linkedin.com/in/cj-rayhill-31b0504
+
+- name: Thomas Bukowski
+  photo: /images/members/thomas-bukowski.jpg
+  organization: Watsi
+  logo: /images/logos/watsi.png
+  url: https://watsi.org/
+  linkedin: https://www.linkedin.com/in/neodude
+
+- name: Jeremy Stone
+  photo: /images/members/jeremy-stone.jpg
+  organization: Code.org
+  logo: /images/logos/code.png
+  url: https://code.org/
+  linkedin: https://www.linkedin.com/in/jeremydstone
