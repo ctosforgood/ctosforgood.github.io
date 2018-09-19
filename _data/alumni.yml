@@ -167,3 +167,16 @@
   logo: /images/logos/khanacademy.png
   url: https://www.khanacademy.org/
   linkedin: https://www.linkedin.com/in/ben-eater-a01b2120
+
+- name: Robbie MacKay
+  photo: /images/members/robbie-mackay.jpg
+  organization: Ushahidi
+  logo: /images/logos/ushahidi.png
+  url: https://www.ushahidi.com/
+
+- name: James Turnbull
+  photo: /images/members/james-turnbull.jpg
+  organization: Empatico
+  logo: /images/logos/empatico.png
+  url: http://empatico.org/
+  linkedin: https://www.linkedin.com/in/turnbulljames/

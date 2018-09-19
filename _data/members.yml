@@ -64,12 +64,6 @@
   url: https://www.volunteermatch.org/
   linkedin: https://www.linkedin.com/in/kschaper
 
-- name: Robbie MacKay
-  photo: /images/members/robbie-mackay.jpg
-  organization: Ushahidi
-  logo: /images/logos/ushahidi.png
-  url: https://www.ushahidi.com/
-
 - name: Marta Kosarchyn
   photo: /images/members/marta-kosarchyn.jpg
   organization: Khan Academy
@@ -90,13 +84,6 @@
   logo: /images/logos/wikimedia.png
   url: https://wikimediafoundation.org/wiki/Home
   linkedin: https://www.linkedin.com/in/victoriastavridoucoleman/
-
-- name: James Turnbull
-  photo: /images/members/james-turnbull.jpg
-  organization: Empatico
-  logo: /images/logos/empatico.png
-  url: http://empatico.org/
-  linkedin: https://www.linkedin.com/in/turnbulljames/
 
 - name: Franklin Rosado
   photo: /images/members/no-photo.jpg
