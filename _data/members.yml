@@ -108,9 +108,9 @@
 
 - name: Marco Carbone
   photo: /images/members/marco-carbone.jpg
-  organization: ACLU
-  logo: /images/logos/aclu.png
-  url: https://www.aclu.org/
+  organization: National Audubon Society
+  logo: /images/logos/audubon.png
+  url: https://www.audubon.org/
   linkedin: https://www.linkedin.com/in/marco-carbone-b498693/
 
 - name: Ann Lewis
