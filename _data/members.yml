@@ -1,19 +1,12 @@
 #
 # See ./README.md for instructions.
 #
-- name: Jason Bennett
-  photo: /images/members/jason-bennett.jpg
-  organization: Crisis Text Line
-  logo: /images/logos/crisistextline.png
-  url: http://www.crisistextline.org/
-  linkedin: https://www.linkedin.com/in/jaymbennett
-
-- name: Brian Honohan
-  photo: /images/members/brian-honohan.jpg
+- name: John Bayne
+  photo: /images/members/john-bayne.jpg
   organization: Charity:Water
   logo: /images/logos/charitywater.png
   url: https://www.charitywater.org/
-  linkedin: https://www.linkedin.com/in/brianhonohan
+  linkedin: https://www.linkedin.com/in/john-bayne-84535527/
 
 - name: Omar Khan
   photo: /images/members/omar-khan.jpg

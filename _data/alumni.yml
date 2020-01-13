@@ -222,3 +222,24 @@
   logo: /images/logos/watsi.png
   url: https://watsi.org/
   linkedin: https://www.linkedin.com/in/peter-kutrumbos-5a456239/
+
+- name: Jason Bennett
+  photo: /images/members/jason-bennett.jpg
+  organization: Crisis Text Line
+  logo: /images/logos/crisistextline.png
+  url: http://www.crisistextline.org/
+  linkedin: https://www.linkedin.com/in/jaymbennett
+
+- name: Brian Honohan
+  photo: /images/members/brian-honohan.jpg
+  organization: Charity:Water
+  logo: /images/logos/charitywater.png
+  url: https://www.charitywater.org/
+  linkedin: https://www.linkedin.com/in/brianhonohan
+
+- name: Franklin Rosado
+  photo: /images/members/no-photo.jpg
+  organization: Planned Parenthood
+  logo: /images/logos/plannedparenthood.png
+  url: https://www.plannedparenthood.org/
+  linkedin: https://www.linkedin.com/in/franklin-rosado-87721/
