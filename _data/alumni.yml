@@ -236,3 +236,10 @@
   logo: /images/logos/dosomething.png
   url: https://www.dosomething.org
   linkedin: https://www.linkedin.com/in/mattholford
+
+- name: Jake Garcia
+  photo: /images/members/jake-garcia.jpg
+  organization: Candid
+  logo: /images/logos/candid.png
+  url: https://candid.org/
+  linkedin: https://www.linkedin.com/in/jake-garcia-68510bb
