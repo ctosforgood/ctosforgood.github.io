@@ -99,12 +99,12 @@
   url: https://www.moveon.org/
   linkedin: https://www.linkedin.com/in/theannlewis/  
 
-- name: Genevieve Nielsen
-  photo: /images/members/genevieve-nielsen.jpg
-  organization: MRelief
-  logo: /images/logos/mrelief.png
-  url: https://www.mrelief.com/
-  linkedin: https://www.linkedin.com/in/genevievenielsen/
+# - name: Dize Hacioglu
+#   photo: /images/members/dize-hacioglu.jpg
+#   organization: MRelief
+#   logo: /images/logos/mrelief.png
+#   url: https://www.mrelief.com/
+#   linkedin: https://www.linkedin.com/in/dizehacioglu/
 
 - name: Raj Kamachee
   photo: /images/members/raj-kamachee.jpg
@@ -153,13 +153,6 @@
   logo: /images/logos/polaris.png
   url: https://polarisproject.org/
   linkedin: https://www.linkedin.com/in/anjanarajan/
-
-- name: Mai Irie
-  photo: /images/members/mai-irie.jpg
-  organization: DoSomething.org
-  logo: /images/logos/dosomething.png
-  url: https://www.dosomething.org
-  linkedin: https://www.linkedin.com/in/mirie/
 
 - name: Cat Huang
   photo: /images/members/cat-huang.jpg

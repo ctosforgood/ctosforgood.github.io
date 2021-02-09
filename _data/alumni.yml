@@ -243,3 +243,17 @@
   logo: /images/logos/candid.png
   url: https://candid.org/
   linkedin: https://www.linkedin.com/in/jake-garcia-68510bb
+
+- name: Genevieve Nielsen
+  photo: /images/members/genevieve-nielsen.jpg
+  organization: MRelief
+  logo: /images/logos/mrelief.png
+  url: https://www.mrelief.com/
+  linkedin: https://www.linkedin.com/in/genevievenielsen/
+
+- name: Mai Irie
+  photo: /images/members/mai-irie.jpg
+  organization: DoSomething.org
+  logo: /images/logos/dosomething.png
+  url: https://www.dosomething.org
+  linkedin: https://www.linkedin.com/in/mirie/
