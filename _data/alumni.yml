@@ -257,3 +257,10 @@
   logo: /images/logos/dosomething.png
   url: https://www.dosomething.org
   linkedin: https://www.linkedin.com/in/mirie/
+  
+- name: Anthony Suarez
+  photo: /images/members/anthony-suarez.jpg
+  organization: Code.org
+  logo: /images/logos/code.png
+  url: https://code.org/
+  linkedin: https://www.linkedin.com/in/ajsuarez/
