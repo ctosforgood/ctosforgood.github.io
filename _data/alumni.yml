@@ -264,3 +264,17 @@
   logo: /images/logos/code.png
   url: https://code.org/
   linkedin: https://www.linkedin.com/in/ajsuarez/
+
+- name: Kirk Schaper
+  photo: /images/members/kirk-schaper.jpg
+  organization: VolunteerMatch
+  logo: /images/logos/volunteermatch.png
+  url: https://www.volunteermatch.org/
+  linkedin: https://www.linkedin.com/in/kschaper
+
+- name: Grant Ingersoll
+  photo: /images/members/grant-ingersoll.jpg
+  organization: Wikimedia Foundation
+  logo: /images/logos/wikimedia.png
+  url: https://wikimediafoundation.org/wiki/Home
+  linkedin: https://www.linkedin.com/in/grantingersoll/
