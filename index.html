@@ -6,7 +6,8 @@ layout: default
    <div class="container">
       <div class="row">
          <div class="col-sm-12 col-xl-8 offset-xl-0 text-sm-left m-t-6 m-b-1">
-            <h2 class="col_whiteText text_normalCase">A group of tech-forward nonprofits that collaborate to learn and improve. Let's do more good, not reinvent wheels.</h2>
+            <h2 class="col_whiteText text_normalCase">A group of tech-forward nonprofits that collaborate to learn and improve. Let's do more good,
+               not reinvent wheels.</h2>
          </div>
       </div>
    </div>
@@ -14,14 +15,17 @@ layout: default
 
 <a name="about"></a>
 <div class="container">
-  <div class="row m-t-4 m-b-4">
-     <div class="col-sm-10 offset-sm-1">
-        <h2 class="col_brand2Text">About Us</h2>
-        <p>
-        Founded in 2011, CTOs for Good is an invitation-only group of technical leaders at nonprofits that deliver social impact primarily through technology and digital strategy. We support each other in doing big things on lean budgets. We share best practices and lessons learned around technology choices, managing technical teams, scaling social impact, and much more. We also have two sister groups: CMOs for Good and COOs for Good.
-        </p>
-     </div>
-  </div>
+   <div class="row m-t-4 m-b-4">
+      <div class="col-sm-10 offset-sm-1">
+         <h2 class="col_brand2Text">About Us</h2>
+         <p>
+            Founded in 2011, CTOs for Good is an invitation-only group of technical leaders at nonprofits that deliver social impact primarily through
+            technology and digital strategy. We support each other in doing big things on lean budgets. We share best practices and lessons learned
+            around technology choices, managing technical teams, scaling social impact, and much more. We also have two sister groups: CMOs for Good
+            and COOs for Good.
+         </p>
+      </div>
+   </div>
 </div>
 
 <a name="members"></a>
@@ -37,15 +41,16 @@ layout: default
          {% assign members = (site.data.members | sort: 'name') %}
          {% for member in members %}
          <div class="col-xs-6 col-md-4 text-xs-center p-3 m-t-1 m-b-1">
-             <div class="col_white">
-                {% if member.linkedin != null %}<a href="{{ member.linkedin }}" class="col_bodyText">{% endif %}
-                <p><img src="{{ member.photo }}" class="img-cover"/></p>
-                <p class="member-name">{{ member.name }}</p>
-                {% if member.linkedin != null %}</a>{% endif %}
-                <div class="member-logo p-b-1">
-                   <a href="{{ member.url }}"><img src="{{ member.logo }}" class="img-cover" alt="{{ member.organization }}"/></a>
-                </div>
-              </div>
+            <div class="col_white">
+               {% if member.linkedin != null %}<a href="{{ member.linkedin }}" class="col_bodyText">{% endif %}
+                  <p><img src="{{ member.photo }}" class="img-cover" /></p>
+                  <p class="member-name">{{ member.name }}</p>
+                  {% if member.linkedin != null %}
+               </a>{% endif %}
+               <div class="member-logo p-b-1">
+                  <a href="{{ member.url }}"><img src="{{ member.logo }}" class="img-cover" alt="{{ member.organization }}" /></a>
+               </div>
+            </div>
          </div>
          {% endfor %}
       </div>
@@ -56,13 +61,15 @@ layout: default
          </div>
 
          <div id="alumni" style="display: none;">
-         {% assign alumni = (site.data.alumni | sort: 'name') %}
-         {% for alumn in alumni %}
-         <div class="col-md-3 m-t-1 m-b-1">
-            <p>{% if alumn.linkedin == null %}<span class="member-name">{% else %}<a href="{{ alumn.linkedin }}" class="member-name">{% endif %}{{ alumn.name }}{% if alumn.linkedin == null %}</span>{% else %}</a>{% endif %}<br/>
-            <a href="{{ alumn.url }}" class="col_brand2Text">{{ alumn.organization }}</a></p>
-         </div>
-         {% endfor %}
+            {% assign alumni = (site.data.alumni | sort: 'name') %}
+            {% for alumn in alumni %}
+            <div class="col-md-3 m-t-1 m-b-1">
+               <p>{% if alumn.linkedin == null %}<span class="member-name">{% else %}<a href="{{ alumn.linkedin }}" class="member-name">{% endif %}{{
+                        alumn.name }}{% if alumn.linkedin == null %}</span>{% else %}</a>{% endif %}<br />
+                  <a href="{{ alumn.url }}" class="col_brand2Text">{{ alumn.organization }}</a>
+               </p>
+            </div>
+            {% endfor %}
          </div>
       </div>
    </div>
@@ -70,34 +77,63 @@ layout: default
 
 
 <script>
-function toggleAlumni() {
-   if (document.getElementById("alumni") != null) {
-     if (document.getElementById("alumni").style.display == 'none') {
-        document.getElementById("alumni").style.display = 'block';
-        document.getElementById("alumniButton").innerHTML = "Hide Alumni";
-     } else {
-        document.getElementById("alumni").style.display = 'none';
-        document.getElementById("alumniButton").innerHTML = "Show Alumni";
-     }
+   function toggleAlumni() {
+      if (document.getElementById("alumni") != null) {
+         if (document.getElementById("alumni").style.display == 'none') {
+            document.getElementById("alumni").style.display = 'block';
+            document.getElementById("alumniButton").innerHTML = "Hide Alumni";
+         } else {
+            document.getElementById("alumni").style.display = 'none';
+            document.getElementById("alumniButton").innerHTML = "Show Alumni";
+         }
+      }
    }
-}
 </script>
 
 
 <!-- UNCONFERENCE -->
 <a name="events"></a>
 <div class="container">
-  <div class="row m-t-4 m-b-3">
-     <div class="col-sm-10 offset-sm-1">
-        <h2 class="col_brand2Text">Annual Unconference</h2>
-        <p>
-        CTOs for Good gathers once a year for a private, two-day unconference. This annual event allows us to come together in person to share best practices, discuss common challenges, and learn from each other. We’re also joined by guest speakers from industry-leading companies who share their wisdom with us. Many thanks to our generous sponsors and hosts who make these events possible.
-        </p>
-     </div>
-  </div>
+   <div class="row m-t-4 m-b-3">
+      <div class="col-sm-10 offset-sm-1">
+         <h2 class="col_brand2Text">Annual Unconference</h2>
+         <p>
+            CTOs for Good gathers once a year for a private, two-day unconference. This annual event allows us to come together in person to share
+            best practices, discuss common challenges, and learn from each other. We’re also joined by guest speakers from industry-leading companies
+            who share their wisdom with us. Many thanks to our generous sponsors and hosts who make these events possible.
+         </p>
+      </div>
+   </div>
 
-  <div class="row m-b-3">
-     <div class="col-sm-5 offset-sm-1">
+   <div class="row m-b-3">
+      <div class="col-sm-5 offset-sm-1">
+
+         <hr />
+         <h5>October 1, 8, 15, 2021</h5>
+         <p class="text_allCaps col_brand3Text text_500">Virtual</p>
+
+         <h6>Guest speakers</h6>
+         TBD
+
+         <h6>Food and drinks sponsor</h6>
+         <a href="https://www.pagerduty.com/industries/non-profit/"></a>PagerDuty</a>
+      </div>
+      <div class="col-sm-5 ">
+         <hr />
+         <h5>October 9, 16, 23, 2020</h5>
+         <p class="text_allCaps col_brand3Text text_500">Virtual</p>
+
+         <h6>Guest speakers</h6>
+         <a href="https://www.linkedin.com/in/lesliehm/">Leslie Miley</a>, Google<br />
+         <a href="https://www.linkedin.com/in/dr-kanika-bell-44251443/">Dr. Kanika Bell</a>, Clark Atlanta University
+
+         <h6>Food and drinks sponsor</h6>
+         <a href="https://www.pagerduty.com/industries/non-profit/"></a>PagerDuty</a>
+      </div>
+   </div>
+
+   <div class="row m-b-3">
+      <div class="col-sm-5 offset-sm-1">
 
          <hr />
          <h5>September 12-13, 2019</h5>
@@ -107,30 +143,31 @@ function toggleAlumni() {
          <a href="https://www.donorschoose.org/">DonorsChoose.org</a> and <a href="https://candid.org/">Candid</a>
 
          <h6>Guest speakers</h6>
-         <a href="https://www.linkedin.com/in/mariabelousova/">Maria Belousova</a>, Grubhub<br/>
+         <a href="https://www.linkedin.com/in/mariabelousova/">Maria Belousova</a>, Grubhub<br />
          <a href="https://www.linkedin.com/in/jonwill/">Jon Wiliams</a>, NY CTO Club
 
          <h6>Food and drinks sponsor</h6>
          NY CTO Club, SF CTO Club
-     </div>    
-     <div class="col-sm-5 ">
+      </div>
+      <div class="col-sm-5 ">
          <hr />
          <h5>September 20-21, 2018</h5>
          <p class="text_allCaps col_brand3Text text_500">San Francisco</p>
 
          <h6>Hosted by</h6>
-         <a href="https://www.codeforamerica.org/">Code for America</a> and <a href="https://communityspace.withgoogle.com/">Google's Community Space</a>
+         <a href="https://www.codeforamerica.org/">Code for America</a> and <a href="https://communityspace.withgoogle.com/">Google's Community
+            Space</a>
 
          <h6>Guest speakers</h6>
-         <a href="https://www.linkedin.com/in/nickcaldwell/">Nick Caldwell</a>, Looker<br/>
+         <a href="https://www.linkedin.com/in/nickcaldwell/">Nick Caldwell</a>, Looker<br />
          <a href="https://www.linkedin.com/in/juliagrace/">Julia Grace</a>, Slack
 
          <h6>Food and drinks sponsor</h6>
          NY CTO Club, SF CTO Club, Google.org
-     </div>
-  </div>
-  <div class="row m-b-3">     
-     <div class="col-sm-5 offset-sm-1">
+      </div>
+   </div>
+   <div class="row m-b-3">
+      <div class="col-sm-5 offset-sm-1">
 
          <hr />
          <h5>September 18-19, 2017</h5>
@@ -140,13 +177,13 @@ function toggleAlumni() {
          <a href="https://www.donorschoose.org/">DonorsChoose.org</a> and <a href="http://foundationcenter.org/">Foundation Center</a>
 
          <h6>Guest speakers</h6>
-         <a href="https://www.linkedin.com/in/ypasqua/">Yvette Pasqua</a>, Meetup<br/>
+         <a href="https://www.linkedin.com/in/ypasqua/">Yvette Pasqua</a>, Meetup<br />
          <a href="https://www.linkedin.com/in/igorshindel/">Igor Shindel</a>, AppNexus
 
          <h6>Food and drinks sponsor</h6>
          NY CTO Club
-     </div>
-     <div class="col-sm-5">
+      </div>
+      <div class="col-sm-5">
          <hr />
 
          <h5>September 29-30, 2016</h5>
@@ -156,15 +193,15 @@ function toggleAlumni() {
          <a href="https://www.plos.org/">PLOS</a> and <a href="https://www.kiva.org">Kiva</a></p>
 
          <h6>Guest speakers</h6>
-         <a href="https://www.linkedin.com/in/hypatia">Leigh Honeywell</a>, Slack<br/>
+         <a href="https://www.linkedin.com/in/hypatia">Leigh Honeywell</a>, Slack<br />
          <a href="https://www.linkedin.com/in/randyshoup">Randy Shoup</a>, StitchFix
 
          <h6>Food and drinks sponsor</h6>
          NY CTO Club
-     </div>
-  </div>
-  <div class="row m-b-3">     
-     <div class="col-sm-5 offset-sm-1">
+      </div>
+   </div>
+   <div class="row m-b-3">
+      <div class="col-sm-5 offset-sm-1">
          <hr />
 
          <h5>October 5-6, 2015</h5>
@@ -174,14 +211,14 @@ function toggleAlumni() {
          <a href="https://www.donorschoose.org/">DonorsChoose.org</a> and <a href="http://www.idealist.org/">Idealist</a>
 
          <h6>Guest speakers</h6>
-         <a href="https://www.linkedin.com/in/minervatantoco">Minerva Tantoco</a>, City of New York<br/>
+         <a href="https://www.linkedin.com/in/minervatantoco">Minerva Tantoco</a>, City of New York<br />
          <a href="https://www.linkedin.com/in/dblock">Daniel “dB” Doubrovkine</a>, Artsy
 
          <h6>Food and drinks sponsor</h6>
          NY CTO Club
-     </div>
+      </div>
 
-     <div class="col-sm-5 ">
+      <div class="col-sm-5 ">
          <hr />
 
          <h5>September 18-19, 2014</h5>
@@ -195,10 +232,10 @@ function toggleAlumni() {
 
          <h6>Food and drinks sponsor</h6>
          NY CTO Club
-     </div>
-  </div>
-  <div class="row m-b-3">
-     <div class="col-sm-5 offset-sm-1">
+      </div>
+   </div>
+   <div class="row m-b-3">
+      <div class="col-sm-5 offset-sm-1">
          <hr />
 
          <h5>September 23-24, 2013</h5>
@@ -207,7 +244,7 @@ function toggleAlumni() {
          <a href="https://www.donorschoose.org/">DonorsChoose.org</a> and <a href="http://www.dosomething.org/">DoSomething.org</a>
 
          <h6>Guest speakers</h6>
-         <a href="https://www.linkedin.com/in/kellanem">Kellan Elliott-McCrea</a>, Etsy<br/>
+         <a href="https://www.linkedin.com/in/kellanem">Kellan Elliott-McCrea</a>, Etsy<br />
          <a href="https://www.linkedin.com/in/stevejacobs1">Steve Jacobs</a>, Gilt
 
          <h6>Food and drinks sponsor</h6>
@@ -222,13 +259,13 @@ function toggleAlumni() {
          <a href="https://www.donorschoose.org/">DonorsChoose.org</a> and <a href="https://www.dosomething.org/">DoSomething.org</a>
 
          <h6>Guest speakers</h6>
-         <a href="https://www.linkedin.com/in/lonbinder">Lon Binder</a>, Warby Parker<br/>
+         <a href="https://www.linkedin.com/in/lonbinder">Lon Binder</a>, Warby Parker<br />
          <a href="https://www.linkedin.com/in/jslevineny">Joshua Levine</a>, E*TRADE
-     </div>
+      </div>
    </div>
 
    <div class="row m-b-3">
-     <div class="col-sm-5 offset-sm-1">
+      <div class="col-sm-5 offset-sm-1">
          <hr />
 
          <h5>February 22-23, 2011</h5>
@@ -236,8 +273,8 @@ function toggleAlumni() {
 
          <h6>Hosted and Sponsored by</h6>
          Knight Foundation
-     </div>
-  </div>
+      </div>
+   </div>
 </div>
 
 
@@ -249,7 +286,8 @@ function toggleAlumni() {
          <div class="col-xs-12 col-sm-10 offset-sm-1 m-t-4 m-b-2">
             <h2 class="col_brand1Text">Hangouts</h2>
             <p>
-             We host several video hangouts each year with guest speakers who are technical experts on topics of shared interest. Past hangouts include:
+               We host several video hangouts each year with guest speakers who are technical experts on topics of shared interest. Past hangouts
+               include:
             </p>
          </div>
       </div>
@@ -257,10 +295,11 @@ function toggleAlumni() {
          {% for hangout in site.data.hangouts %}
          <div class="col-sm-8 offset-sm-2 m-b-1">
             <h4 class="text_normalCase">{{ hangout.title }}</h4>
-            <p><a href="{{ hangout.linkedin }}" class="col_brand2Text text_500 text_allCaps">{{ hangout.name }}</a><span class="col_brand1Text p-l-1"><em>{{ hangout.company }}</em></span>
+            <p><a href="{{ hangout.linkedin }}" class="col_brand2Text text_500 text_allCaps">{{ hangout.name }}</a><span
+                  class="col_brand1Text p-l-1"><em>{{ hangout.company }}</em></span>
          </div>
          {% endfor %}
-       </div>
+      </div>
    </div>
 </div>
 
@@ -273,11 +312,14 @@ function toggleAlumni() {
          <div class="col-xs-12 col-sm-10 offset-sm-1 m-t-5 m-b-5">
             <h2 class="col_brand3Text">Email List</h2>
             <p class="col_whiteText">
-            Our very active group email list enables our members to quickly and easily access the collective wisdom of the group. When members hit a particularly troublesome technical issue or are grappling with a tricky management decision, they can reach out to the group for advice and help. Often times another member has solved a similar problem and can offer insight or can connect them to someone in their network who can help. This reduces the number of times we "reinvent the wheel" and helps us all scale our organizations more quickly.
+               Our very active group email list enables our members to quickly and easily access the collective wisdom of the group. When members hit
+               a particularly troublesome technical issue or are grappling with a tricky management decision, they can reach out to the group for
+               advice and help. Often times another member has solved a similar problem and can offer insight or can connect them to someone in their
+               network who can help. This reduces the number of times we "reinvent the wheel" and helps us all scale our organizations more quickly.
             </p>
          </div>
       </div>
-    </div>
+   </div>
 </div>
 
 
@@ -289,18 +331,18 @@ function toggleAlumni() {
          <div class="col-sm-10 offset-sm-1 m-t-4 m-b-4">
             <h2 class="col_brand1Text">Core Values for Diversity &amp; Inclusion</h2>
             <p>
-              We are committed to continuous improvement.<br/>
-              We strive to treat others the way they'd like to be treated.<br/>
-              We will fight the default of exclusion.<br/>
-              We succeed together when we trust each other.<br/>
-              We hold each other accountable.
+               We are committed to continuous improvement.<br />
+               We strive to treat others the way they'd like to be treated.<br />
+               We will fight the default of exclusion.<br />
+               We succeed together when we trust each other.<br />
+               We hold each other accountable.
             </p>
             <p class="m-t-3">
-            <a href="/core-values/" class="btn btn-secondary active text_allCaps" role="button">Learn more</a>
+               <a href="/core-values/" class="btn btn-secondary active text_allCaps" role="button">Learn more</a>
             </p>
          </div>
       </div>
-    </div>
+   </div>
 </div>
 
 <!-- MEMBERSHIP -->
@@ -311,11 +353,12 @@ function toggleAlumni() {
          <div class="col-sm-10 offset-sm-1 m-t-4 m-b-4">
             <h2 class="col_brand1Text">Membership</h2>
             <p>
-            Membership to CTOs for Good is by invitation-only. We have voted to limit membership and to grow slowly to ensure that we keep it intimate , build deep trust, and stay well within our <a href="https://en.wikipedia.org/wiki/Dunbar%27s_number"></a>Dunbar limit</a>.
+               Membership to CTOs for Good is by invitation-only. We have voted to limit membership and to grow slowly to ensure that we keep it
+               intimate , build deep trust, and stay well within our <a href="https://en.wikipedia.org/wiki/Dunbar%27s_number"></a>Dunbar limit</a>.
             </p>
          </div>
       </div>
-    </div>
+   </div>
 </div>
 
 <!-- SPONSORS -->
@@ -325,12 +368,12 @@ function toggleAlumni() {
       <div class="row">
          <div class="col-xs-12 m-t-4 m-b-4 text-xs-center">
             <p>
-            A big thanks to the NY CTO Club for sponsoring our annual unconferences since 2014!
+               A big thanks to the NY CTO Club for sponsoring our annual unconferences since 2014!
             </p>
             <p class="m-t-3">
-            <a href="mailto:hello@ctosforgood.org" class="btn btn-secondary active text_allCaps" role="button">Apply to be a Sponsor</a>
+               <a href="mailto:hello@ctosforgood.org" class="btn btn-secondary active text_allCaps" role="button">Apply to be a Sponsor</a>
             </p>
          </div>
       </div>
-  </div>
+   </div>
 </div>
