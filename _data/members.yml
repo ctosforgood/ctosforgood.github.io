@@ -36,13 +36,6 @@
   url: https://www.globalgiving.org
   linkedin: https://www.linkedin.com/in/kevinmconroy
 
-- name: Ken Leung
-  photo: /images/members/ken-leung.jpg
-  organization: Kiva
-  logo: /images/logos/kiva.png
-  url: https://www.kiva.org/
-  linkedin: https://www.linkedin.com/in/kenleung2/
-
 - name: Marta Kosarchyn
   photo: /images/members/marta-kosarchyn.jpg
   organization: Khan Academy
@@ -83,7 +76,7 @@
   organization: US Small Business Administration
   logo: /images/logos/sba.png
   url: https://www.sba.gov/
-  linkedin: https://www.linkedin.com/in/theannlewis/  
+  linkedin: https://www.linkedin.com/in/theannlewis/
 
 - name: Dize Hacioglu
   photo: /images/members/dize-hacioglu.jpg
@@ -105,7 +98,7 @@
   logo: /images/logos/maishameds.png
   url: https://www.maishameds.org/
 
-- name: Geoff Harcourt 
+- name: Geoff Harcourt
   photo: /images/members/geoff-harcourt.jpg
   organization: CommonLit
   logo: /images/logos/commonlit.png
@@ -124,7 +117,7 @@
   organization: Planned Parenthood Catalyst Health Network
   logo: /images/logos/plannedparenthood.png
   url: https://www.plannedparenthood.org/
-  linkedin: https://www.linkedin.com/in/franklin-rosado-87721/  
+  linkedin: https://www.linkedin.com/in/franklin-rosado-87721/
 
 - name: Anjana Rajan
   photo: /images/members/anjana-rajan.jpg
@@ -147,27 +140,20 @@
   url: https://www.givedirectly.org/
   linkedin: https://www.linkedin.com/in/catherin9/
 
-- name: Melissa Boyle
-  photo: /images/members/melissa-boyle.jpg
-  organization: DoSomething.org
-  logo: /images/logos/dosomething.png
-  url: https://www.dosomething.org
-  linkedin: https://www.linkedin.com/in/melissa-boyle/
-
 - name: Minerva Tantoco
   photo: /images/members/minerva-tantoco.jpg
   organization: The Commons Project
   logo: /images/logos/commonsproject.png
   url: https://thecommonsproject.org/
   linkedin: https://www.linkedin.com/in/minervatantoco/
-  
+
 - name: Mark Hansen
   photo: /images/members/mark-hansen.jpg
   organization: Upsolve
   logo: /images/logos/upsolve.png
   url: https://upsolve.org/
   linkedin: https://www.linkedin.com/in/markdghansen/
-    
+
 - name: Sandra Chung
   photo: /images/members/sandra-chung.jpg
   organization: MoveOn.org

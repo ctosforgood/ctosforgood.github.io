@@ -257,7 +257,7 @@
   logo: /images/logos/dosomething.png
   url: https://www.dosomething.org
   linkedin: https://www.linkedin.com/in/mirie/
-  
+
 - name: Anthony Suarez
   photo: /images/members/anthony-suarez.jpg
   organization: Code.org
@@ -278,3 +278,17 @@
   logo: /images/logos/wikimedia.png
   url: https://wikimediafoundation.org/wiki/Home
   linkedin: https://www.linkedin.com/in/grantingersoll/
+
+- name: Melissa Boyle
+  photo: /images/members/melissa-boyle.jpg
+  organization: DoSomething.org
+  logo: /images/logos/dosomething.png
+  url: https://www.dosomething.org
+  linkedin: https://www.linkedin.com/in/melissa-boyle/
+
+- name: Ken Leung
+  photo: /images/members/ken-leung.jpg
+  organization: Kiva
+  logo: /images/logos/kiva.png
+  url: https://www.kiva.org/
+  linkedin: https://www.linkedin.com/in/kenleung2/
