@@ -299,3 +299,10 @@
   logo: /images/logos/moveon.png
   url: https://front.moveon.org/
   linkedin: https://www.linkedin.com/in/sandramchung/
+
+- name: Kevin Conroy
+  photo: /images/members/kevin-conroy.jpg
+  organization: GlobalGiving
+  logo: /images/logos/globalgiving.png
+  url: https://www.globalgiving.org
+  linkedin: https://www.linkedin.com/in/kevinmconroy
