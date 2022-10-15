@@ -306,3 +306,24 @@
   logo: /images/logos/globalgiving.png
   url: https://www.globalgiving.org
   linkedin: https://www.linkedin.com/in/kevinmconroy
+
+- name: Matt Dragon
+  photo: /images/members/matt-dragon.jpg
+  organization: Charity Navigator
+  logo: /images/logos/charitynavigator.png
+  url: http://www.charitynavigator.org/
+  linkedin: https://www.linkedin.com/in/mattdragon/
+
+- name: Raj Kamachee
+  photo: /images/members/raj-kamachee.jpg
+  organization: Team Rubicon
+  logo: /images/logos/teamrubicon.png
+  url: https://teamrubiconusa.org/
+  linkedin: https://www.linkedin.com/in/kamachee/
+
+- name: John Bayne
+  photo: /images/members/john-bayne.jpg
+  organization: Charity:Water
+  logo: /images/logos/charitywater.png
+  url: https://www.charitywater.org/
+  linkedin: https://www.linkedin.com/in/john-bayne-84535527/

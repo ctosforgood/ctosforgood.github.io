@@ -1,13 +1,6 @@
 #
 # See ./README.md for instructions.
 #
-- name: John Bayne
-  photo: /images/members/john-bayne.jpg
-  organization: Charity:Water
-  logo: /images/logos/charitywater.png
-  url: https://www.charitywater.org/
-  linkedin: https://www.linkedin.com/in/john-bayne-84535527/
-
 - name: Omar Khan
   photo: /images/members/omar-khan.jpg
   organization: Common Sense
@@ -50,13 +43,6 @@
   url: https://www.globalcitizen.org/
   linkedin: https://www.linkedin.com/in/mark-w-lehmann-090411b3/
 
-- name: Matt Dragon
-  photo: /images/members/matt-dragon.jpg
-  organization: Charity Navigator
-  logo: /images/logos/charitynavigator.png
-  url: http://www.charitynavigator.org/
-  linkedin: https://www.linkedin.com/in/mattdragon/
-
 - name: Marco Carbone
   photo: /images/members/marco-carbone.jpg
   organization: Audubon Society
@@ -66,7 +52,7 @@
 
 - name: Ann Lewis
   photo: /images/members/ann-lewis.jpg
-  organization: US Small Business Administration
+  organization: Next Street
   logo: /images/logos/nextstreet.png
   url: https://nextstreet.com/
   linkedin: https://www.linkedin.com/in/theannlewis/
@@ -77,13 +63,6 @@
   logo: /images/logos/mrelief.png
   url: https://www.mrelief.com/
   linkedin: https://www.linkedin.com/in/dizehacioglu/
-
-- name: Raj Kamachee
-  photo: /images/members/raj-kamachee.jpg
-  organization: Team Rubicon
-  logo: /images/logos/teamrubicon.png
-  url: https://teamrubiconusa.org/
-  linkedin: https://www.linkedin.com/in/kamachee/
 
 - name: Jenny Cheng
   photo: /images/members/jenny-cheng.jpg
@@ -160,3 +139,52 @@
   logo: /images/logos/globalgiving.png
   url: https://www.globalgiving.org
   linkedin: https://www.linkedin.com/in/billglover/
+
+- name: Ameesh Kapoor
+  photo: /images/members/ameesh-kapoor.jpg
+  organization: Food Rescue Hero
+  logo: /images/logos/foodrescurehero.png
+  url: https://www.foodrescuehero.org
+  linkedin: https://www.linkedin.com/in/ameeshkapoor
+
+- name: Andy Cho
+  photo: /images/members/no-photo.jpg
+  organization: Charity:Water
+  logo: /images/logos/charitywater.png
+  url: https://www.charitywater.org/
+  linkedin: https://www.linkedin.com/in/andycho
+
+- name: Jeanette Shutay
+  photo: /images/members/jeanette-shutay.jpg
+  organization: Charity Navigator
+  logo: /images/logos/charitynavigator.png
+  url: http://www.charitynavigator.org/
+  linkedin: https://www.linkedin.com/in/jeanette-shutay-4010759
+
+- name: Sheng-te Yang
+  photo: /images/members/sheng-te-yang.jpg
+  organization: Team Rubicon
+  logo: /images/logos/teamrubicon.png
+  url: https://teamrubiconusa.org/
+  linkedin: https://www.linkedin.com/in/shengte/
+
+- name: Nellwyn Thomas
+  photo: /images/members/nellwyn-thomas.jpg
+  organization: Democratic National Committee
+  logo: /images/logos/democraticnationalcommittee.png
+  url: https://democrats.org/
+  linkedin: https://www.linkedin.com/in/nellwyn-thomas/
+
+- name: Simon Guest
+  photo: /images/members/simon-guest.jpg
+  organization: Code.org
+  logo: /images/logos/codeorg.png
+  url: https://code.org/
+  linkedin: https://www.linkedin.com/in/simonguest/
+
+- name: Dave Crusoe
+  photo: /images/members/dave-crusoe.jpg
+  organization: DoSomething
+  logo: /images/logos/dosomething.png
+  url: https://dosomething.org/
+  linkedin: https://www.linkedin.com/in/davecrusoe/
