@@ -4,6 +4,7 @@ _site
 .jekyll
 .jekyll-metadata
 .bundle
+.idea
 .sass-cache
 Gemfile
 Gemfile.lock
