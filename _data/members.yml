@@ -181,3 +181,10 @@
   logo: /images/logos/dosomething.png
   url: https://dosomething.org/
   linkedin: https://www.linkedin.com/in/davecrusoe/
+
+- name: Amy White
+  photo: /images/members/amy-white.jpg
+  organization: MoveOn
+  logo: /images/logos/moveon.png
+  url: https://moveon.org/
+  linkedin: https://www.linkedin.com/in/amypwhite/
