@@ -77,13 +77,6 @@
   url: https://www.enveritas.org/
   linkedin: https://www.linkedin.com/in/JeffPotterUSA/
 
-- name: Franklin Rosado
-  photo: /images/members/no-photo.jpg
-  organization: Planned Parenthood Catalyst Health Network
-  logo: /images/logos/plannedparenthood.png
-  url: https://www.plannedparenthood.org/
-  linkedin: https://www.linkedin.com/in/franklin-rosado-87721/
-
 - name: Cat Huang
   photo: /images/members/cat-huang.jpg
   organization: United for Respect
@@ -97,27 +90,6 @@
   logo: /images/logos/givedirectly.png
   url: https://www.givedirectly.org/
   linkedin: https://www.linkedin.com/in/catherin9/
-
-- name: Minerva Tantoco
-  photo: /images/members/minerva-tantoco.jpg
-  organization: The Commons Project
-  logo: /images/logos/commonsproject.png
-  url: https://thecommonsproject.org/
-  linkedin: https://www.linkedin.com/in/minervatantoco/
-
-- name: Mark Hansen
-  photo: /images/members/mark-hansen.jpg
-  organization: Upsolve
-  logo: /images/logos/upsolve.png
-  url: https://upsolve.org/
-  linkedin: https://www.linkedin.com/in/markdghansen/
-
-- name: Sin-Mei Tsai
-  photo: /images/members/sin-mei-tsai.jpg
-  organization: Kiva
-  logo: /images/logos/kiva.png
-  url: https://www.kiva.org/
-  linkedin: https://www.linkedin.com/in/sinmeitsai/
 
 - name: Bill Glover
   photo: /images/members/bill-glover.jpg
@@ -146,13 +118,6 @@
   logo: /images/logos/teamrubicon.png
   url: https://teamrubiconusa.org/
   linkedin: https://www.linkedin.com/in/shengte/
-
-- name: Nellwyn Thomas
-  photo: /images/members/nellwyn-thomas.jpg
-  organization: Democratic National Committee
-  logo: /images/logos/democraticnationalcommittee.png
-  url: https://democrats.org/
-  linkedin: https://www.linkedin.com/in/nellwyn-thomas/
 
 - name: Simon Guest
   photo: /images/members/simon-guest.jpg

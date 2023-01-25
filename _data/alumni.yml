@@ -341,3 +341,17 @@
   logo: /images/logos/polaris.png
   url: https://polarisproject.org/
   linkedin: https://www.linkedin.com/in/anjanarajan/
+
+- name: Franklin Rosado
+  photo: /images/members/no-photo.jpg
+  organization: Planned Parenthood Catalyst Health Network
+  logo: /images/logos/plannedparenthood.png
+  url: https://www.plannedparenthood.org/
+  linkedin: https://www.linkedin.com/in/franklin-rosado-87721/
+
+- name: Mark Hansen
+  photo: /images/members/mark-hansen.jpg
+  organization: Upsolve
+  logo: /images/logos/upsolve.png
+  url: https://upsolve.org/
+  linkedin: https://www.linkedin.com/in/markdghansen/
