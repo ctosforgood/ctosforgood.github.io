@@ -43,8 +43,23 @@
 .member-name {
    margin-top: 0.5em;
    font-weight: 500;
+   height: 2.5em;
    font-size: 1.25em;
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
+
+@media (max-width: 400px) {
+   .member-name {
+      font-size: 0.7em;
+      height: 3em;
+      text-overflow: ellipsis;
+      overflow: hidden;
+   }
+}
+
 
 .member-logo {
    width: 70%;
