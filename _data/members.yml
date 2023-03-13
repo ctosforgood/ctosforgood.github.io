@@ -132,3 +132,38 @@
   logo: /images/logos/moveon.png
   url: https://moveon.org/
   linkedin: https://www.linkedin.com/in/amypwhite/
+
+- name: Arthur Thompson
+  photo: /images/members/arthur-thompson.jpg
+  organization: DNC
+  logo: /images/logos/democraticnationalcommittee.png
+  url: https://democrats.org/
+  linkedin: https://www.linkedin.com/in/arthur-thompson-08b45045/
+
+- name: Marc Abbyad
+  photo: /images/members/marc-abbyad.jpg
+  organization: Medic
+  logo: /images/logos/medic.png
+  url: https://medic.org/
+  linkedin: https://www.linkedin.com/in/abbyad/
+
+- name: Gabriel Saruhashi
+  photo: /images/members/gabriel-saruhashi.jpg
+  organization: Ameelio
+  logo: /images/logos/ameelio.png
+  url: https://www.ameelio.org/
+  linkedin: https://www.linkedin.com/in/gabrielsaruhashi/
+
+- name: Uchenna Moka-Solana
+  photo: /images/members/uchenna-moka-solana.jpg
+  organization: Color of Change
+  logo: /images/logos/colorofchange.png
+  url: https://colorofchange.org/
+  linkedin: https://www.linkedin.com/in/uchennamoka/
+
+- name: Nick Hurlburt
+  photo: /images/members/nick-hurlburt.jpg
+  organization: Tech Matters
+  logo: /images/logos/techmatters.png
+  url: https://techmatters.org/
+  linkedin: https://www.linkedin.com/in/nick-hurlburt-0481862/
