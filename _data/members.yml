@@ -167,3 +167,17 @@
   logo: /images/logos/techmatters.png
   url: https://techmatters.org/
   linkedin: https://www.linkedin.com/in/nick-hurlburt-0481862/
+
+- name: Christa Stelzmuller
+  photo: /images/members/christa-stelzmuller.jpg
+  organization: charity:water
+  logo: /images/logos/charitywater.png
+  url: https://www.charitywater.org/
+  linkedin: https://www.linkedin.com/in/cstelzmuller/
+
+- name: Ijeoma Genevieve Mbamalu
+  photo: /images/members/ijeoma-genevieve-mbamalu.jpg
+  organization: ACLU
+  logo: /images/logos/aclu.png
+  url: https://www.aclu.org/
+  linkedin: https://www.linkedin.com/in/ijeomagenevievembamalu/
