@@ -24,9 +24,7 @@
 
 - name: Marta Kosarchyn
   photo: /images/members/marta-kosarchyn.jpg
-  organization: Khan Academy
-  logo: /images/logos/khanacademy.png
-  url: https://www.khanacademy.org/
+  logo: /images/logos/blanklogo.png
   linkedin: https://www.linkedin.com/in/marta-kosarchyn-610466/
 
 - name: Lou Moore
@@ -181,3 +179,10 @@
   logo: /images/logos/aclu.png
   url: https://www.aclu.org/
   linkedin: https://www.linkedin.com/in/ijeomagenevievembamalu/
+
+- name: Joshua Essex
+  photo: /images/members/joshua-essex.jpg
+  organization: Recidiviz
+  logo: /images/logos/recidiviz.png
+  url: https://www.recidiviz.org/
+  linkedin: https://www.linkedin.com/in/joshuaessex/
