@@ -1,12 +1,12 @@
 #
 # See ./README.md for instructions.
 #
-- name: Omar Khan
-  photo: /images/members/omar-khan.jpg
+- name: Ashwin Sridhar
+  photo: /images/members/ashwin-sridhar.jpg
   organization: Common Sense
   logo: /images/logos/commonsense.png
   url: https://www.commonsensemedia.org/
-  linkedin: https://www.linkedin.com/in/omar-khan-11983b1
+  linkedin: https://www.linkedin.com/in/ashsridhar/
 
 - name: Oliver Hurst-Hiller
   photo: /images/members/oliver-hurst-hiller.jpg
@@ -200,3 +200,9 @@
   logo: /images/logos/irap.png
   url: https://refugeerights.org/
   linkedin: https://www.linkedin.com/in/aishshukla/
+
+- name: Erik Moeller
+  photo: /images/members/erik-moeller.jpg
+  organization: Freedom of the Press Foundation
+  logo: /images/logos/freedomofpressfoundation.png
+  url: https://freedom.press/
