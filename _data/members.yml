@@ -1,93 +1,19 @@
 #
 # See ./README.md for instructions.
 #
-- name: Ashwin Sridhar
-  photo: /images/members/ashwin-sridhar.jpg
-  organization: Common Sense
-  logo: /images/logos/commonsense.png
-  url: https://www.commonsensemedia.org/
-  linkedin: https://www.linkedin.com/in/ashsridhar/
 
-- name: Oliver Hurst-Hiller
-  photo: /images/members/oliver-hurst-hiller.jpg
-  organization: DonorsChoose.org
-  logo: /images/logos/donorschoose.png
-  url: https://www.donorschoose.org
-  linkedin: https://www.linkedin.com/in/oliverhh
+- name: Aish Shukla
+  photo: /images/members/aish-shukla.jpg
+  organization: International Refugee Assistance Project
+  logo: /images/logos/irap.png
+  url: https://refugeerights.org/
 
-- name: Kevin Mulder
-  photo: /images/members/kevin-mulder.jpg
-  organization: Candid
-  logo: /images/logos/candid.png
-  url: https://candid.org/
-  linkedin: https://www.linkedin.com/in/kevin-mulder-52173a22/
-
-- name: Marta Kosarchyn
-  photo: /images/members/marta-kosarchyn.jpg
-  logo: /images/logos/blanklogo.png
-  linkedin: https://www.linkedin.com/in/marta-kosarchyn-610466/
-
-- name: Rafael Santander
-  photo: /images/members/rafael-santander.jpg
-  organization: Code for America
-  logo: /images/logos/cfa.png
-  url: https://www.codeforamerica.org/
-  linkedin: https://www.linkedin.com/in/rsantander/
-
-- name: Mark Lehmann
-  photo: /images/members/mark-lehmann.jpg
-  organization: Global Citizen
-  logo: /images/logos/globalcitizen.png
-  url: https://www.globalcitizen.org/
-  linkedin: https://www.linkedin.com/in/mark-w-lehmann-090411b3/
-
-- name: Marco Carbone
-  photo: /images/members/marco-carbone.jpg
-  organization: Audubon Society
-  logo: /images/logos/audubon.png
-  url: https://www.audubon.org/
-  linkedin: https://www.linkedin.com/in/marco-carbone-b498693/
-
-- name: Dize Hacioglu
-  photo: /images/members/dize-hacioglu.jpg
-  organization: MRelief
-  logo: /images/logos/mrelief.png
-  url: https://www.mrelief.com/
-  linkedin: https://www.linkedin.com/in/dizehacioglu/
-
-- name: Jenny Cheng
-  photo: /images/members/jenny-cheng.jpg
-  organization: Maisha Meds
-  logo: /images/logos/maishameds.png
-  url: https://www.maishameds.org/
-
-- name: Geoff Harcourt
-  photo: /images/members/geoff-harcourt.jpg
-  organization: CommonLit
-  logo: /images/logos/commonlit.png
-  url: https://www.commonlit.org/
-  linkedin: https://www.linkedin.com/in/geoffharcourt/
-
-- name: Jeff Potter
-  photo: /images/members/jeff-potter.jpg
-  organization: Enveritas
-  logo: /images/logos/enveritas.png
-  url: https://www.enveritas.org/
-  linkedin: https://www.linkedin.com/in/JeffPotterUSA/
-
-- name: Cat Huang
-  photo: /images/members/cat-huang.jpg
-  organization: United for Respect
-  logo: /images/logos/unitedforrespect.png
-  url: https://united4respect.org/
-  linkedin: https://www.linkedin.com/in/mizcat/
-
-- name: Mustafa Seyrek
-  photo: /images/members/mustafa-seyrek.jpeg
-  organization: GlobalGiving
-  logo: /images/logos/globalgiving.png
-  url: https://www.globalgiving.org
-  linkedin: https://www.linkedin.com/in/mustafaseyrek/
+- name: Alex Allain
+  photo: /images/members/alex-allain.jpeg
+  organization: US Digital Response
+  logo: /images/logos/usdigitalresponse.png
+  url: https://www.usdigitalresponse.org/
+  linkedin: https://www.linkedin.com/in/alexallain/
 
 - name: Ameesh Kapoor
   photo: /images/members/ameesh-kapoor.jpg
@@ -95,34 +21,6 @@
   logo: /images/logos/foodrescurehero.png
   url: https://www.foodrescuehero.org
   linkedin: https://www.linkedin.com/in/ameeshkapoor
-
-- name: Jeanette Shutay
-  photo: /images/members/jeanette-shutay.jpg
-  organization: Charity Navigator
-  logo: /images/logos/charitynavigator.png
-  url: http://www.charitynavigator.org/
-  linkedin: https://www.linkedin.com/in/jeanette-shutay-4010759
-
-- name: Sheng-te Yang
-  photo: /images/members/sheng-te-yang.jpg
-  organization: Team Rubicon
-  logo: /images/logos/teamrubicon.png
-  url: https://teamrubiconusa.org/
-  linkedin: https://www.linkedin.com/in/shengte/
-
-- name: Simon Guest
-  photo: /images/members/simon-guest.jpg
-  organization: Code.org
-  logo: /images/logos/codeorg.png
-  url: https://code.org/
-  linkedin: https://www.linkedin.com/in/simonguest/
-
-- name: Dave Crusoe
-  photo: /images/members/dave-crusoe.jpg
-  organization: DoSomething
-  logo: /images/logos/dosomething.png
-  url: https://dosomething.org/
-  linkedin: https://www.linkedin.com/in/davecrusoe/
 
 - name: Amy White
   photo: /images/members/amy-white.jpg
@@ -138,19 +36,26 @@
   url: https://democrats.org/
   linkedin: https://www.linkedin.com/in/arthur-thompson-08b45045/
 
-- name: Marc Abbyad
-  photo: /images/members/marc-abbyad.jpg
-  organization: Medic
-  logo: /images/logos/medic.png
-  url: https://medic.org/
-  linkedin: https://www.linkedin.com/in/abbyad/
+- name: Ashwin Sridhar
+  photo: /images/members/ashwin-sridhar.jpg
+  organization: Common Sense
+  logo: /images/logos/commonsense.png
+  url: https://www.commonsensemedia.org/
+  linkedin: https://www.linkedin.com/in/ashsridhar/
 
-- name: Gabriel Saruhashi
-  photo: /images/members/gabriel-saruhashi.jpg
-  organization: Ameelio
-  logo: /images/logos/ameelio.png
-  url: https://www.ameelio.org/
-  linkedin: https://www.linkedin.com/in/gabrielsaruhashi/
+- name: Brittany Bennett
+  photo: /images/members/brittany-bennett.jpeg
+  organization: Working Families Party
+  logo: /images/logos/workingfamiliesparty.png
+  url: https://workingfamilies.org/
+  linkedin: https://www.linkedin.com/in/thebbennett/
+
+- name: Cat Huang
+  photo: /images/members/cat-huang.jpg
+  organization: United for Respect
+  logo: /images/logos/unitedforrespect.png
+  url: https://united4respect.org/
+  linkedin: https://www.linkedin.com/in/mizcat/
 
 - name: Cedric Lang
   photo: /images/members/cedric-lang.jpg
@@ -159,19 +64,60 @@
   url: https://colorofchange.org/
   linkedin: https://www.linkedin.com/in/cedalang/
 
-- name: Nick Hurlburt
-  photo: /images/members/nick-hurlburt.jpg
-  organization: Tech Matters
-  logo: /images/logos/techmatters.png
-  url: https://techmatters.org/
-  linkedin: https://www.linkedin.com/in/nick-hurlburt-0481862/
-
 - name: Christa Stelzmuller
   photo: /images/members/christa-stelzmuller.jpg
   organization: charity:water
   logo: /images/logos/charitywater.png
   url: https://www.charitywater.org/
   linkedin: https://www.linkedin.com/in/cstelzmuller/
+
+- name: Dave Crusoe
+  photo: /images/members/dave-crusoe.jpg
+  organization: DoSomething
+  logo: /images/logos/dosomething.png
+  url: https://dosomething.org/
+  linkedin: https://www.linkedin.com/in/davecrusoe/
+
+- name: Dize Hacioglu
+  photo: /images/members/dize-hacioglu.jpg
+  organization: MRelief
+  logo: /images/logos/mrelief.png
+  url: https://www.mrelief.com/
+  linkedin: https://www.linkedin.com/in/dizehacioglu/
+
+- name: Don Boulia
+  photo: /images/members/don-boulia.png
+  organization: Charity Navigator
+  logo: /images/logos/charitynavigator.png
+  url: http://www.charitynavigator.org/
+  linkedin: https://www.linkedin.com/in/djboulia/
+
+- name: Erik Moeller
+  photo: /images/members/erik-moeller.jpg
+  organization: Freedom of the Press Foundation
+  logo: /images/logos/freedomofpressfoundation.png
+  url: https://freedom.press/
+
+- name: Gabriel Saruhashi
+  photo: /images/members/gabriel-saruhashi.jpg
+  organization: Ameelio
+  logo: /images/logos/ameelio.png
+  url: https://www.ameelio.org/
+  linkedin: https://www.linkedin.com/in/gabrielsaruhashi/
+
+- name: Hannah Lewbel
+  photo: /images/members/hannah-lewbel.jpeg
+  organization: Veterans Administration
+  logo: /images/logos/veteransadministration.png
+  url: https://www.va.gov/
+  linkedin: https://www.linkedin.com/in/hlewbel/
+
+- name: Geoff Harcourt
+  photo: /images/members/geoff-harcourt.jpg
+  organization: CommonLit
+  logo: /images/logos/commonlit.png
+  url: https://www.commonlit.org/
+  linkedin: https://www.linkedin.com/in/geoffharcourt/
 
 - name: Ijeoma Genevieve Mbamalu
   photo: /images/members/ijeoma-genevieve-mbamalu.jpg
@@ -180,6 +126,19 @@
   url: https://www.aclu.org/
   linkedin: https://www.linkedin.com/in/ijeomagenevievembamalu/
 
+- name: Jeff Potter
+  photo: /images/members/jeff-potter.jpg
+  organization: Enveritas
+  logo: /images/logos/enveritas.png
+  url: https://www.enveritas.org/
+  linkedin: https://www.linkedin.com/in/JeffPotterUSA/
+
+- name: Jenny Cheng
+  photo: /images/members/jenny-cheng.jpg
+  organization: Maisha Meds
+  logo: /images/logos/maishameds.png
+  url: https://www.maishameds.org/
+
 - name: Joshua Essex
   photo: /images/members/joshua-essex.jpg
   organization: Recidiviz
@@ -187,22 +146,97 @@
   url: https://www.recidiviz.org/
   linkedin: https://www.linkedin.com/in/joshuaessex/
 
+- name: Kevin Mulder
+  photo: /images/members/kevin-mulder.jpg
+  organization: Candid
+  logo: /images/logos/candid.png
+  url: https://candid.org/
+  linkedin: https://www.linkedin.com/in/kevin-mulder-52173a22/
+
+- name: Lisa Dusseault
+  photo: /images/members/lisa-dusseault.jpg
+  organization: Data Transfer Initiative
+  logo: /images/logos/datatransferinitiative.png
+  url: https://dtinit.org/
+  linkedin: https://www.linkedin.com/in/lisadusseault
+
+- name: Marc Abbyad
+  photo: /images/members/marc-abbyad.jpg
+  organization: Medic
+  logo: /images/logos/medic.png
+  url: https://medic.org/
+  linkedin: https://www.linkedin.com/in/abbyad/
+
+- name: Marco Carbone
+  photo: /images/members/marco-carbone.jpg
+  organization: Audubon Society
+  logo: /images/logos/audubon.png
+  url: https://www.audubon.org/
+  linkedin: https://www.linkedin.com/in/marco-carbone-b498693/
+
+- name: Mark Lehmann
+  photo: /images/members/mark-lehmann.jpg
+  organization: Global Citizen
+  logo: /images/logos/globalcitizen.png
+  url: https://www.globalcitizen.org/
+  linkedin: https://www.linkedin.com/in/mark-w-lehmann-090411b3/
+
+- name: Marta Kosarchyn
+  photo: /images/members/marta-kosarchyn.jpg
+  logo: /images/logos/blanklogo.png
+  linkedin: https://www.linkedin.com/in/marta-kosarchyn-610466/
+
+- name: Matt Vanderzee
+  photo: /images/members/matt-vanderzee.jpg
+  organization: Crisis Text Line
+  logo: /images/logos/crisistextline.png
+  linkedin: https://www.linkedin.com/in/mvndrz
+
+- name: Mustafa Seyrek
+  photo: /images/members/mustafa-seyrek.jpeg
+  organization: GlobalGiving
+  logo: /images/logos/globalgiving.png
+  url: https://www.globalgiving.org
+  linkedin: https://www.linkedin.com/in/mustafaseyrek/
+
+- name: Nick Hurlburt
+  photo: /images/members/nick-hurlburt.jpg
+  organization: Tech Matters
+  logo: /images/logos/techmatters.png
+  url: https://techmatters.org/
+  linkedin: https://www.linkedin.com/in/nick-hurlburt-0481862/
+
+- name: Oliver Hurst-Hiller
+  photo: /images/members/oliver-hurst-hiller.jpg
+  organization: DonorsChoose.org
+  logo: /images/logos/donorschoose.png
+  url: https://www.donorschoose.org
+  linkedin: https://www.linkedin.com/in/oliverhh
+
+- name: Rafael Santander
+  photo: /images/members/rafael-santander.jpg
+  organization: Code for America
+  logo: /images/logos/cfa.png
+  url: https://www.codeforamerica.org/
+  linkedin: https://www.linkedin.com/in/rsantander/
+
+- name: Sheng-te Yang
+  photo: /images/members/sheng-te-yang.jpg
+  organization: Team Rubicon
+  logo: /images/logos/teamrubicon.png
+  url: https://teamrubiconusa.org/
+  linkedin: https://www.linkedin.com/in/shengte/
+
+- name: Simon Guest
+  photo: /images/members/simon-guest.jpg
+  organization: Code.org
+  logo: /images/logos/codeorg.png
+  url: https://code.org/
+  linkedin: https://www.linkedin.com/in/simonguest/
+
 - name: Victor Paulsamy
   photo: /images/members/victor-paulsamy.jpg
   organization: Kiva
   logo: /images/logos/kiva.png
   url: https://www.kiva.org/
   linkedin: https://www.linkedin.com/in/victorpaulsamy/
-
-- name: Aish Shukla
-  photo: /images/members/aish-shukla.jpg
-  organization: International Refugee Assistance Project
-  logo: /images/logos/irap.png
-  url: https://refugeerights.org/
-  linkedin: https://www.linkedin.com/in/aishshukla/
-
-- name: Erik Moeller
-  photo: /images/members/erik-moeller.jpg
-  organization: Freedom of the Press Foundation
-  logo: /images/logos/freedomofpressfoundation.png
-  url: https://freedom.press/
