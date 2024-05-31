@@ -38,7 +38,7 @@ layout: default
       </div>
 
       <div class="row">
-         {% assign members = (site.data.members | sort_natural: 'name') %}
+         {% assign members = site.data.members | sort_natural: 'name' %}
          {% for member in members %}
          <div class="col-xs-6 col-md-4 text-xs-center p-3 m-t-1 m-b-1">
             <div class="col_white">
@@ -61,7 +61,7 @@ layout: default
          </div>
 
          <div id="alumni" style="display: none;">
-            {% assign alumni = (site.data.alumni | sort: 'name') %}
+            {% assign alumni = site.data.alumni | sort: 'name' %}
             {% for alumn in alumni %}
             <div class="col-md-3 m-t-1 m-b-1">
                <p>{% if alumn.linkedin == null %}<span class="member-name">{% else %}<a href="{{ alumn.linkedin }}" class="member-name">{% endif %}{{

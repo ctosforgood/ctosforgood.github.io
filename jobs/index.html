@@ -17,8 +17,8 @@ layout: default
 
 
 {% assign index = 0 %}
-{% assign jobs = (site.data.jobs) %}
-{% assign members = (site.data.members) %}
+{% assign jobs = site.data.jobs %}
+{% assign members = site.data.members %}
 {% for job in jobs %}
   <!-- JOB LISTING -->
   {% assign index = forloop.index0 | modulo:2 %}
