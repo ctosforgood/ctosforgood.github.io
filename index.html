@@ -38,7 +38,7 @@ layout: default
       </div>
 
       <div class="row">
-         {% assign members = (site.data.members | sort: 'name') %}
+         {% assign members = (site.data.members | sort_natural: 'name') %}
          {% for member in members %}
          <div class="col-xs-6 col-md-4 text-xs-center p-3 m-t-1 m-b-1">
             <div class="col_white">
