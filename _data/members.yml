@@ -4,9 +4,9 @@
 
 - name: Aish Shukla
   photo: /images/members/aish-shukla.jpg
-  organization: International Refugee Assistance Project
-  logo: /images/logos/irap.png
-  url: https://refugeerights.org/
+  organization: Earthjustice
+  logo: /images/logos/earthjustice.png
+  url: https://earthjustice.org/
 
 - name: Ameesh Kapoor
   photo: /images/members/ameesh-kapoor.jpg
@@ -91,13 +91,6 @@
   logo: /images/logos/freedomofpressfoundation.png
   url: https://freedom.press/
 
-- name: Gabriel Saruhashi
-  photo: /images/members/gabriel-saruhashi.jpg
-  organization: Ameelio
-  logo: /images/logos/ameelio.png
-  url: https://www.ameelio.org/
-  linkedin: https://www.linkedin.com/in/gabrielsaruhashi/
-
 - name: Hannah Lewbel
   photo: /images/members/hannah-lewbel.jpeg
   organization: Veterans Administration
@@ -174,11 +167,6 @@
   url: https://www.globalcitizen.org/
   linkedin: https://www.linkedin.com/in/mark-w-lehmann-090411b3/
 
-- name: Marta Kosarchyn
-  photo: /images/members/marta-kosarchyn.jpg
-  logo: /images/logos/blanklogo.png
-  linkedin: https://www.linkedin.com/in/marta-kosarchyn-610466/
-
 - name: Matt Vanderzee
   photo: /images/members/matt-vanderzee.jpg
   organization: Crisis Text Line
@@ -247,3 +235,15 @@
   logo: /images/logos/solarapp.png
   url: https://gosolarapp.org/
   linkedin: https://www.linkedin.com/in/danlopez1/
+
+- name: Adam Kircher
+  photo: /images/members/adam-kircher.png
+  organization: SIRUM
+  logo: /images/logos/sirum.png
+  url: https://sirum.org/
+  linkedin: https://www.linkedin.com/in/adam-s-kircher-b87532a/
+
+- name: Alex Allain
+  photo: /images/members/alex-allain.jpeg
+  logo: /images/logos/blanklogo.png
+  linkedin: https://www.linkedin.com/in/alexallain/
