@@ -146,13 +146,6 @@
   url: https://dtinit.org/
   linkedin: https://www.linkedin.com/in/lisadusseault
 
-- name: Marc Abbyad
-  photo: /images/members/marc-abbyad.jpg
-  organization: Medic
-  logo: /images/logos/medic.png
-  url: https://medic.org/
-  linkedin: https://www.linkedin.com/in/abbyad/
-
 - name: Marco Carbone
   photo: /images/members/marco-carbone.jpg
   organization: Audubon Society
@@ -193,13 +186,6 @@
   logo: /images/logos/donorschoose.png
   url: https://www.donorschoose.org
   linkedin: https://www.linkedin.com/in/oliverhh
-
-- name: Rafael Santander
-  photo: /images/members/rafael-santander.jpg
-  organization: Code for America
-  logo: /images/logos/cfa.png
-  url: https://www.codeforamerica.org/
-  linkedin: https://www.linkedin.com/in/rsantander/
 
 - name: Simon Guest
   photo: /images/members/simon-guest.jpg
