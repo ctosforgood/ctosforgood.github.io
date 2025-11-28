@@ -59,18 +59,29 @@ layout: default
          <div class="col-xs-12 text-xs-center m-t-2 m-b-3">
             <a href="javascript:void(0);" onclick="toggleAlumni();" id="alumniButton" class="small">Show Alumni</a>
          </div>
-
-         <div id="alumni" style="display: none;">
-            {% assign alumni = site.data.alumni | sort: 'name' %}
-            {% for alumn in alumni %}
-            <div class="col-md-3 m-t-1 m-b-1">
-               <p>{% if alumn.linkedin == null %}<span class="member-name">{% else %}<a href="{{ alumn.linkedin }}" class="member-name">{% endif %}{{
-                        alumn.name }}{% if alumn.linkedin == null %}</span>{% else %}</a>{% endif %}<br />
-                  <a href="{{ alumn.url }}" class="col_brand2Text">{{ alumn.organization }}</a>
-               </p>
-            </div>
-            {% endfor %}
-         </div>
+      </div>
+      
+      <div id="alumni" class="row alumni-grid" style="display: none;">
+        {% assign alumni = site.data.alumni | sort: 'name' %}
+        {% for alumn in alumni %}
+        <div class="col-xs-6 col-md-3 m-t-1 m-b-1 alumni-item">
+          <p>
+            {% if alumn.linkedin == null %}
+              <span class="member-name">
+            {% else %}
+              <a href="{{ alumn.linkedin }}" class="member-name">
+            {% endif %}
+              {{ alumn.name }}
+            {% if alumn.linkedin == null %}
+              </span>
+            {% else %}
+              </a>
+            {% endif %}
+            <br />
+            <a href="{{ alumn.url }}" class="col_brand2Text">{{ alumn.organization }}</a>
+          </p>
+        </div>
+        {% endfor %}
       </div>
    </div>
 </div>

@@ -101,6 +101,31 @@ footer {
    }
 }
 
+#alumni.alumni-grid {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+#alumni .alumni-item {
+  text-align: center;
+}
+
+#alumni .member-name {
+  display: inline-block;
+  margin-bottom: 0.15rem;
+  font-size: 1.25rem;
+}
+
+#alumni .col_brand2Text {
+  font-size: 0.95rem;
+  letter-spacing: 0.03em;
+}
+
+.alumni-item .member-name:hover,
+.alumni-item .member-org a:hover {
+  text-decoration: underline;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "svg-icons";

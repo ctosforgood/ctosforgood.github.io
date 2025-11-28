@@ -416,3 +416,30 @@
   logo: /images/logos/colorofchange.png
   url: https://colorofchange.org/
   linkedin: https://www.linkedin.com/in/cedalang/
+
+- name: Ameesh Kapoor
+  photo: /images/members/ameesh-kapoor.jpg
+  organization: Food Rescue Hero
+  logo: /images/logos/foodrescurehero.png
+  url: https://www.foodrescuehero.org
+  linkedin: https://www.linkedin.com/in/ameeshkapoor
+
+- name: Erik Moeller
+  photo: /images/members/erik-moeller.jpg
+  organization: Freedom of the Press Foundation
+  logo: /images/logos/freedomofpressfoundation.png
+  url: https://freedom.press/
+
+- name: Simon Guest
+  photo: /images/members/simon-guest.jpg
+  organization: Code.org
+  logo: /images/logos/codeorg.png
+  url: https://code.org/
+  linkedin: https://www.linkedin.com/in/simonguest/
+
+- name: Victor Paulsamy
+  photo: /images/members/victor-paulsamy.jpg
+  organization: Kiva
+  logo: /images/logos/kiva.png
+  url: https://www.kiva.org/
+  linkedin: https://www.linkedin.com/in/victorpaulsamy/

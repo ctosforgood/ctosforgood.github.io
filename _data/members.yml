@@ -2,18 +2,23 @@
 # See ./README.md for instructions.
 #
 
+- name: Adam Kircher
+  photo: /images/members/adam-kircher.png
+  organization: SIRUM
+  logo: /images/logos/sirum.png
+  url: https://sirum.org/
+  linkedin: https://www.linkedin.com/in/adam-s-kircher-b87532a/
+
 - name: Aish Shukla
   photo: /images/members/aish-shukla.jpg
   organization: Earthjustice
   logo: /images/logos/earthjustice.png
   url: https://earthjustice.org/
 
-- name: Ameesh Kapoor
-  photo: /images/members/ameesh-kapoor.jpg
-  organization: Food Rescue Hero
-  logo: /images/logos/foodrescurehero.png
-  url: https://www.foodrescuehero.org
-  linkedin: https://www.linkedin.com/in/ameeshkapoor
+- name: Alex Allain
+  photo: /images/members/alex-allain.jpeg
+  logo: /images/logos/blanklogo.png
+  linkedin: https://www.linkedin.com/in/alexallain/
 
 - name: Amy White
   photo: /images/members/amy-white.jpg
@@ -36,6 +41,20 @@
   url: https://www.commonsensemedia.org/
   linkedin: https://www.linkedin.com/in/ashsridhar/
 
+- name: Bella Wang
+  photo: /images/members/bella-wang.jpg
+  organization: The Movement Cooperative
+  logo: /images/logos/themovementcooperative.png
+  url: https://movementcooperative.org/
+  linkedin: https://www.linkedin.com/in/bella-wang-646b604b/
+
+- name: Boomie Odumade
+  photo: /images/members/boomie-odumade.jpg
+  organization: Movement Infrastructure Group
+  logo: /images/logos/movementinfrastructuregroup.png
+  url: https://www.movementinfrastructure.org/
+  linkedin: https://www.linkedin.com/in/odumade/
+
 - name: brittany bennett
   photo: /images/members/brittany-bennett.jpeg
   organization: Working Families Party
@@ -56,6 +75,13 @@
   logo: /images/logos/charitywater.png
   url: https://www.charitywater.org/
   linkedin: https://www.linkedin.com/in/cstelzmuller/
+
+- name: Dan Lopez
+  photo: /images/members/dan-lopez.jpg
+  organization: SolarApp Foundation
+  logo: /images/logos/solarapp.png
+  url: https://gosolarapp.org/
+  linkedin: https://www.linkedin.com/in/danlopez1/
 
 - name: Dave Crusoe
   photo: /images/members/dave-crusoe.jpg
@@ -78,11 +104,26 @@
   url: http://www.charitynavigator.org/
   linkedin: https://www.linkedin.com/in/djboulia/
 
-- name: Erik Moeller
-  photo: /images/members/erik-moeller.jpg
-  organization: Freedom of the Press Foundation
-  logo: /images/logos/freedomofpressfoundation.png
-  url: https://freedom.press/
+- name: Donald Lobo
+  photo: /images/members/donald-lobo.jpg
+  organization: Project Tech4Dev
+  logo: /images/logos/projecttech4dev.png
+  url: https://projecttech4dev.org/
+  linkedin: https://www.linkedin.com/in/donald-lobo/
+
+- name: Geoff Harcourt
+  photo: /images/members/geoff-harcourt.jpg
+  organization: CommonLit
+  logo: /images/logos/commonlit.png
+  url: https://www.commonlit.org/
+  linkedin: https://www.linkedin.com/in/geoffharcourt/
+
+- name: George Babey
+  photo: /images/members/george-babey.jpg
+  organization: Code.org
+  logo: /images/logos/codeorg.png
+  url: https://code.org/
+  linkedin: https://www.linkedin.com/in/georgebabey/
 
 - name: Hannah Lewbel
   photo: /images/members/hannah-lewbel.jpeg
@@ -91,12 +132,12 @@
   url: https://www.va.gov/
   linkedin: https://www.linkedin.com/in/hlewbel/
 
-- name: Geoff Harcourt
-  photo: /images/members/geoff-harcourt.jpg
-  organization: CommonLit
-  logo: /images/logos/commonlit.png
-  url: https://www.commonlit.org/
-  linkedin: https://www.linkedin.com/in/geoffharcourt/
+- name: Heidi Williams
+  photo: /images/members/heidi-williams.jpg
+  organization: Murmuration
+  logo: /images/logos/murmuration.png
+  url: https://murmuration.org/
+  linkedin: https://www.linkedin.com/in/heidiwilliams1/
 
 - name: Ijeoma Genevieve Mbamalu
   photo: /images/members/ijeoma-genevieve-mbamalu.jpg
@@ -111,6 +152,13 @@
   logo: /images/logos/enveritas.png
   url: https://www.enveritas.org/
   linkedin: https://www.linkedin.com/in/JeffPotterUSA/
+
+- name: Jennifer Helsby
+  photo: /images/members/jennifer-helsby.jpg
+  organization: Freedom of the Press Foundation
+  logo: /images/logos/freedomofpressfoundation.png
+  url: https://freedom.press/
+  linkedin: https://www.linkedin.com/in/🧙-jennifer-helsby-698399189/
 
 - name: Jenny Cheng
   photo: /images/members/jenny-cheng.jpg
@@ -180,49 +228,9 @@
   url: https://www.donorschoose.org
   linkedin: https://www.linkedin.com/in/oliverhh
 
-- name: Simon Guest
-  photo: /images/members/simon-guest.jpg
-  organization: Code.org
-  logo: /images/logos/codeorg.png
-  url: https://code.org/
-  linkedin: https://www.linkedin.com/in/simonguest/
-
-- name: Victor Paulsamy
-  photo: /images/members/victor-paulsamy.jpg
-  organization: Kiva
-  logo: /images/logos/kiva.png
-  url: https://www.kiva.org/
-  linkedin: https://www.linkedin.com/in/victorpaulsamy/
-
-- name: Bella Wang
-  photo: /images/members/bella-wang.jpg
-  organization: The Movement Cooperative
-  logo: /images/logos/themovementcooperative.png
-  url: https://movementcooperative.org/
-  linkedin: https://www.linkedin.com/in/bella-wang-646b604b/
-
-- name: Boomie Odumade
-  photo: /images/members/boomie-odumade.jpg
-  organization: Movement Infrastructure Group
-  logo: /images/logos/movementinfrastructuregroup.png
-  url: https://www.movementinfrastructure.org/
-  linkedin: https://www.linkedin.com/in/odumade/
-
-- name: Dan Lopez
-  photo: /images/members/dan-lopez.jpg
-  organization: SolarApp Foundation
-  logo: /images/logos/solarapp.png
-  url: https://gosolarapp.org/
-  linkedin: https://www.linkedin.com/in/danlopez1/
-
-- name: Adam Kircher
-  photo: /images/members/adam-kircher.png
-  organization: SIRUM
-  logo: /images/logos/sirum.png
-  url: https://sirum.org/
-  linkedin: https://www.linkedin.com/in/adam-s-kircher-b87532a/
-
-- name: Alex Allain
-  photo: /images/members/alex-allain.jpeg
-  logo: /images/logos/blanklogo.png
-  linkedin: https://www.linkedin.com/in/alexallain/
+- name: Olutosin Sonuyi
+  photo: /images/members/olutosin-sonuyi.jpg
+  organization: CareerVillage
+  logo: /images/logos/careervillage.png
+  url: https://www.careervillage.org/
+  linkedin: https://www.linkedin.com/in/olutosin-sonuyi/
