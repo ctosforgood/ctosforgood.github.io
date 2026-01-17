@@ -76,6 +76,13 @@
   url: https://gosolarapp.org/
   linkedin: https://www.linkedin.com/in/danlopez1/
 
+- name: Daniel Nall
+  photo: /images/members/daniel-nall.jpg
+  organization: INeedAnA
+  logo: /images/logos/ineedana.jpg
+  url: https://www.ineedana.com/
+  linkedin: https://www.linkedin.com/in/danielineedana/
+
 - name: Dave Crusoe
   photo: /images/members/dave-crusoe.jpg
   organization: DoSomething
@@ -179,6 +186,13 @@
   logo: /images/logos/datatransferinitiative.png
   url: https://dtinit.org/
   linkedin: https://www.linkedin.com/in/lisadusseault
+
+- name: Marc Cull
+  photo: /images/members/marc-cull.jpg
+  organization: FreeWorld
+  logo: /images/logos/freeworld.jpg
+  url: https://freeworld.org/
+  linkedin: https://www.linkedin.com/in/mcull/
 
 - name: Marco Carbone
   photo: /images/members/marco-carbone.jpg
