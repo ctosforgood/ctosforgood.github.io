@@ -102,12 +102,33 @@ footer {
 }
 
 #alumni.alumni-grid {
-  max-width: 1100px;
-  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  width: 100%;
+  padding: 0 15px 2rem;
+}
+
+@media (max-width: 768px) {
+  #alumni.alumni-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 #alumni .alumni-item {
   text-align: center;
+  max-width: none;
+  flex: none;
+  width: auto;
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 1rem;
+  transition: box-shadow 0.2s ease;
+}
+
+#alumni .alumni-item:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
 #alumni .member-name {
